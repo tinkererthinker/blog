@@ -53,8 +53,6 @@
         - Question:: How to lay out the network most cost-effectively
             - [[>]] there's a 'network of good moves' in chess, and in music, and in reply game. the skilled player knows how to operate in the 'hot' parts of the network, which allows them to use shockingly little effort and resources when 'on the field' pic.twitter.com/fe7DkFWZIR [🐦](https://x.com/visakanv/status/1874494955043106845) by Visakan Veerasamy on [[January 1st, 2025]]
     - Baran worked on the problem how to build communication structures could survive an attack and continue to function as a cohesive entity when other pieced were destroyed
-        - stroke
-        - Ria told me that she works in the department of neurology. Does she know more about how strokes damage the brain and how it recovers from it?
     - neural nets recreate themselves over via new pathways in the brain
         - understanding the brain by programming neural nets
     - How much redundancy in the network would be needed for survivability?
