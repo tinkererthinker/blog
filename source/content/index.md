@@ -2,7 +2,7 @@
 title: Trang's Notebook
 ---
 
-# What I'm doing Now
+# What I'm Doing Now
 
 Currently, I'm studying [[Mechanistic Interpretability]] from the perspective of a math student. MI is the field of reverse engineering neural networks.
 
