@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
+                "file": "Where Wizards Stay Up Late - The Origins of the Internet.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "Where Wizards Stay Up Late - The Origins of the Internet"
             }
           }
         ],
@@ -190,8 +190,8 @@
   },
   "active": "2d8837e6263008e3",
   "lastOpenFiles": [
-    "Where Wizards Stay Up Late - The Origins of the Internet.md",
     "index.md",
+    "Where Wizards Stay Up Late - The Origins of the Internet.md",
     "Chord Protocol.md",
     "Mechanistic Interpretability.md",
     "category-folder/Some note.md",
