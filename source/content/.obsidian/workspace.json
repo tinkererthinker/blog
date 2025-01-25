@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "local first.md",
+                "file": "Clippings/How to push code to Github hiding the API keys.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "local first"
+              "title": "How to push code to Github hiding the API keys"
             }
           },
           {
@@ -153,10 +153,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "local first.md"
+                "file": "Clippings/How to push code to Github hiding the API keys.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of local first"
+              "title": "Outline of How to push code to Github hiding the API keys"
             }
           },
           {
@@ -190,10 +190,14 @@
   },
   "active": "47ef711f7e8c1d64",
   "lastOpenFiles": [
+    "Clippings/Created a python program to export games played from chess.com and open analysis board for them in lichess.md",
+    "Clippings/How to push code to Github hiding the API keys.md",
+    "Clippings/Have you ever felt so moved by music on a unexplainable level?.md",
     "index.md",
+    "Clippings/Thread by @TomFrankly.md",
+    "Clippings/The Benefits of Hill Sprints for Novice Distance Runners - Runners Connect.md",
     "local first.md",
     "Clippings/How do you recreate the emotion of a song.md",
-    "Clippings/Have you ever felt so moved by music on a unexplainable level?.md",
     "Clippings/Have you ever felt so moved by music on a unexplainable level.md",
     "Clippings",
     "Mechanistic Interpretability.md",
