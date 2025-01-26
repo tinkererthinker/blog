@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2025-01-25.md",
+                "file": "Clippings/Thread by @DefenderOfBasic.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-01-25"
+              "title": "Thread by @DefenderOfBasic"
             }
           },
           {
@@ -27,15 +27,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
+                "file": "Clippings/In praise of voice notes.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "In praise of voice notes"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -188,28 +189,35 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "47ef711f7e8c1d64",
+  "active": "2d8837e6263008e3",
   "lastOpenFiles": [
-    "Today I Learned.md",
-    "2025-01-25.md",
+    "Clippings/Thread by @dgant.md",
+    "Clippings/In praise of voice notes.md",
+    "Clippings/Thread by @visakanv on communicating value.md",
+    "Clippings/Thread by @visakanv on digital marketing.md",
+    "Clippings/Thread by @visakanv on invisible contracts.md",
+    "Clippings/Thread by @visakanv the nature of attention.md",
+    "Clippings/Thread by @visakanv on the nature of attention.md",
+    "Clippings/Influencer Economy interview by Ryan Williams  Derek Sivers.md",
+    "Clippings/Thread by @DefenderOfBasic.md",
     "index.md",
+    "Clippings/Thread by @TomFrankly (running).md",
+    "Clippings/Thread by @Levi7hart (GTG).md",
+    "2025-01-25.md",
+    "@visakanv.md",
+    "Jab, Jab, Jab, Right Hook_ How to Tell Your Story in a Noisy Social World.md",
+    "Clippings/Inside Facebook's Two Years of Hell.md",
+    "Clippings/The fall of Salon.com.md",
+    "Today I Learned.md",
     "Chord Protocol.md",
     "Clippings/How I Built a Learning Machine.md",
     "Clippings/Created a python program to export games played from chess.com and open analysis board for them in lichess.md",
     "Clippings/The Benefits of Hill Sprints for Novice Distance Runners - Runners Connect.md",
     "Clippings/Have you ever felt so moved by music on a unexplainable level?.md",
     "Clippings/Grease the Groove is truly a miracle.md",
-    "Clippings/Thread by @Levi7hart (GTG).md",
-    "Clippings/Thread by @TomFrankly (running).md",
     "Clippings/How to push code to Github hiding the API keys.md",
     "local first.md",
-    "Clippings/How do you recreate the emotion of a song.md",
-    "Clippings/Have you ever felt so moved by music on a unexplainable level.md",
     "Clippings",
-    "Mechanistic Interpretability.md",
-    "Where Wizards Stay Up Late - The Origins of the Internet.md",
-    "category-folder/Some note.md",
-    "category-folder/index.md",
     "category-folder"
   ]
 }
