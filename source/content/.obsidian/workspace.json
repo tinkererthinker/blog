@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2025-01-27.md",
+                "file": "Distributed Systems.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-01-27"
+              "title": "Distributed Systems"
             }
           }
         ]
@@ -175,8 +175,14 @@
   },
   "active": "2d8837e6263008e3",
   "lastOpenFiles": [
-    "Gilbert Strang.md",
+    "Clippings/maelstromdemo at main · jepsen-iomaelstrom.md",
+    "Distributed Systems.md",
+    "Clippings/A Racket client for the Maelstrom distributed systems test harness.md",
+    "Chord Protocol.md",
+    "index.md",
+    "Clippings/How to Search Instagram caption text.md",
     "2025-01-27.md",
+    "Gilbert Strang.md",
     "Linear Algebra.md",
     "Prompt Engineering.md",
     "The Inner Game of Tennis.md",
@@ -195,12 +201,6 @@
     "Dijkstra's Algorithm.md",
     "Clippings/A Barebones Guide to Mechanistic Interpretability Prerequisites — Neel Nanda.md",
     "Mechanistic Interpretability.md",
-    "index.md",
-    "Chord Protocol.md",
-    "Today I Learned.md",
-    "The Box - How the Shipping Container made the world smaller and the world economy bigger.md",
-    "Clippings/Thread by @visakanv on invisible contracts.md",
-    "Clippings/Created a python program to export games played from chess.com and open analysis board for them in lichess.md",
     "Clippings",
     "category-folder"
   ]
