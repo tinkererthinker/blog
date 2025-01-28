@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Distributed Systems.md",
+                "file": "index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Distributed Systems"
+              "title": "index"
             }
           }
         ]
@@ -175,8 +175,9 @@
   },
   "active": "2d8837e6263008e3",
   "lastOpenFiles": [
-    "Clippings/maelstromdemo at main · jepsen-iomaelstrom.md",
     "Distributed Systems.md",
+    "Clippings/Show HN Advent of Distributed Systems  Hacker News.md",
+    "Clippings/maelstromdemo at main · jepsen-iomaelstrom.md",
     "Clippings/A Racket client for the Maelstrom distributed systems test harness.md",
     "Chord Protocol.md",
     "index.md",
@@ -200,7 +201,6 @@
     "Automate the Boring Stuff.md",
     "Dijkstra's Algorithm.md",
     "Clippings/A Barebones Guide to Mechanistic Interpretability Prerequisites — Neel Nanda.md",
-    "Mechanistic Interpretability.md",
     "Clippings",
     "category-folder"
   ]
