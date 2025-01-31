@@ -34,9 +34,23 @@
               "icon": "lucide-file",
               "title": "index"
             }
+          },
+          {
+            "id": "d0cb6ec0c74a4a3b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "conflict-files-obsidian-git"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -189,18 +203,25 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "2d8837e6263008e3",
+  "active": "d0cb6ec0c74a4a3b",
   "lastOpenFiles": [
-    "Clippings/The Psychology of Money, Collab Fund.md",
     "index.md",
-    "Clippings/Created a python program to export games played from chess.com and open analysis board for them in lichess.md",
+    "Linear Algebra.md",
+    "Clippings/A Barebones Guide to Mechanistic Interpretability Prerequisites — Neel Nanda.md",
+    "Mechanistic Interpretability.md",
     "conflict-files-obsidian-git.md",
+    "Distributed Systems.md",
+    "Clippings/maelstromdemo at main · jepsen-iomaelstrom.md",
+    "Clippings/Show HN Advent of Distributed Systems  Hacker News.md",
+    "Clippings/How to Search Instagram caption text.md",
+    "Clippings/A Racket client for the Maelstrom distributed systems test harness.md",
+    "Clippings/The Psychology of Money, Collab Fund.md",
+    "Clippings/Created a python program to export games played from chess.com and open analysis board for them in lichess.md",
     "local first.md",
     "The Inner Game of Tennis.md",
     "The Design of Everyday Things.md",
     "The Box - How the Shipping Container made the world smaller and the world economy bigger.md",
     "Prompt Engineering.md",
-    "Linear Algebra.md",
     "Jab, Jab, Jab, Right Hook_ How to Tell Your Story in a Noisy Social World.md",
     "Gilbert Strang.md",
     "Dijkstra's Algorithm.md",
@@ -210,13 +231,6 @@
     "Clippings/Thread by @visakanv on digital marketing.md",
     "Clippings/Thread by @visakanv on communicating value.md",
     "Clippings/Thread by @dgant.md",
-    "Clippings/Thread by @TomFrankly (running).md",
-    "Clippings/Thread by @RichDecibels.md",
-    "Clippings/Thread by @Levi7hart (GTG).md",
-    "Clippings/Thread by @DefenderOfBasic.md",
-    "Clippings/Thread by @DefenderOfBasic on debugging humans.md",
-    "Clippings/Thread by @DefenderOfBasic 2.md",
-    "Clippings/Thread by @DefenderOfBasic 1.md",
     "Clippings",
     "category-folder"
   ]

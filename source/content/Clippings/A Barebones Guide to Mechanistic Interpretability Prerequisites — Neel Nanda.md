@@ -23,7 +23,7 @@ This guide is our take on the essential skills required to understand, write cod
 
 - ### Maths
 
-	- Linear Algebra: [3Blue1Brown](https://www.youtube.com/watch?v=fNk_zzaMoSs) or [Linear Algebra Done Right](https://linear.axler.net/)
+	- [[Linear Algebra]]: [3Blue1Brown](https://www.youtube.com/watch?v=fNk_zzaMoSs) or [Linear Algebra Done Right](https://linear.axler.net/)
 		- Core goals - to deeply & intuitively understand these concepts:
 			- Basis
 			- Change of basis
