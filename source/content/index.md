@@ -1,5 +1,5 @@
 ---
-title: Trang's Notebook
+title: What I'm paying attention to
 ---
 # What I'm Doing Now
 
