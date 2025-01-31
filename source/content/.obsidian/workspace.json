@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Clippings/Discovering a formula for the cubic.md",
+                "file": "index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Discovering a formula for the cubic"
+              "title": "index"
             }
           },
           {
@@ -108,17 +108,17 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Clippings/Discovering a formula for the cubic.md",
+                "file": "index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Discovering a formula for the cubic"
+              "title": "Backlinks for index"
             }
           },
           {
@@ -174,7 +174,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -189,14 +190,16 @@
   },
   "active": "47ef711f7e8c1d64",
   "lastOpenFiles": [
+    "Clippings/Geometry of a Polynomial.md",
+    "Clippings/Discovering a formula for the cubic.md",
+    "Elliptic Curve.md",
+    "Symmetric Equations.md",
+    "Galois Theory.md",
     "Clippings/Mathematical Discussions.md",
     "index.md",
     "Linear Algebra.md",
     "Diophantine equations.md",
     "Clippings/How to discover the statement and two proofs of Fermat's little theorem.md",
-    "Galois Theory.md",
-    "Symmetric Equations.md",
-    "Clippings/Discovering a formula for the cubic.md",
     "Discovering a formula for the cubic.md",
     "Clippings/Defender on X the greatest irony is that the people that can get the best answers out of an LLM are those with the best people skills.md",
     "category-folder/index.md",
@@ -213,8 +216,6 @@
     "Clippings/A Racket client for the Maelstrom distributed systems test harness.md",
     "Clippings/The Psychology of Money, Collab Fund.md",
     "Clippings/Created a python program to export games played from chess.com and open analysis board for them in lichess.md",
-    "local first.md",
-    "The Inner Game of Tennis.md",
     "Clippings",
     "category-folder"
   ]
