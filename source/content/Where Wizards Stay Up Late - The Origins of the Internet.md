@@ -43,6 +43,8 @@
     - 1967
     - 1947
     - 1977
+## Chapters
+
 - The Fastest Million dollars
     - iirc, Taylor convinced his boss Herzfeld to invest one million into a small test network of five computer nodes. They must have known and trusted each other very well. Surprisingly, he only needed to have a single conversation 9
     - the problem of choosing computers
@@ -78,4 +80,5 @@
     - encountering skeptics, dealing with objections
 - funding, money
     - $19 Million
+
 - I am impressed by the number of people working together to make the internet happen facing lots of resistance along the way.

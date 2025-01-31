@@ -92,7 +92,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 244.5
   },
   "right": {
     "id": "ba1ec06a672fb227",
@@ -175,7 +175,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -190,16 +191,33 @@
   },
   "active": "2d8837e6263008e3",
   "lastOpenFiles": [
-    "category-folder/index.md",
-    "Chord Protocol.md",
-    "Mechanistic Interpretability.md",
+    "Clippings/The Psychology of Money, Collab Fund.md",
     "index.md",
-    "[[Today.md",
-    "Today I Learned.md",
-    "category-folder/Some note.md",
-    "Clippings/Obsidian Web Clipper.md",
+    "Clippings/Created a python program to export games played from chess.com and open analysis board for them in lichess.md",
+    "conflict-files-obsidian-git.md",
+    "local first.md",
+    "The Inner Game of Tennis.md",
+    "The Design of Everyday Things.md",
+    "The Box - How the Shipping Container made the world smaller and the world economy bigger.md",
+    "Prompt Engineering.md",
+    "Linear Algebra.md",
+    "Jab, Jab, Jab, Right Hook_ How to Tell Your Story in a Noisy Social World.md",
+    "Gilbert Strang.md",
+    "Dijkstra's Algorithm.md",
+    "Clippings/Two announcements AI for Math resources, and erdosproblems.com.md",
+    "Clippings/Thread by @visakanv the nature of attention.md",
+    "Clippings/Thread by @visakanv on invisible contracts.md",
+    "Clippings/Thread by @visakanv on digital marketing.md",
+    "Clippings/Thread by @visakanv on communicating value.md",
+    "Clippings/Thread by @dgant.md",
+    "Clippings/Thread by @TomFrankly (running).md",
+    "Clippings/Thread by @RichDecibels.md",
+    "Clippings/Thread by @Levi7hart (GTG).md",
+    "Clippings/Thread by @DefenderOfBasic.md",
+    "Clippings/Thread by @DefenderOfBasic on debugging humans.md",
+    "Clippings/Thread by @DefenderOfBasic 2.md",
+    "Clippings/Thread by @DefenderOfBasic 1.md",
     "Clippings",
-    "Where Wizards Stay Up Late - The Origins of the Internet.md",
     "category-folder"
   ]
 }
