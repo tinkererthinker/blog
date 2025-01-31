@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
+                "file": "Clippings/Discovering a formula for the cubic.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "Discovering a formula for the cubic"
             }
           },
           {
@@ -27,17 +27,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
+                "file": "Galois Theory.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "Galois Theory"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -109,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "category-folder/Some note.md",
+                "file": "Clippings/Discovering a formula for the cubic.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +118,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Some note"
+              "title": "Backlinks for Discovering a formula for the cubic"
             }
           },
           {
@@ -171,13 +170,11 @@
               "title": "Source Control"
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -190,14 +187,19 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "2d8837e6263008e3",
+  "active": "47ef711f7e8c1d64",
   "lastOpenFiles": [
-    "Linear Algebra.md",
+    "Clippings/Mathematical Discussions.md",
     "index.md",
-    "category-folder/index.md",
+    "Linear Algebra.md",
     "Diophantine equations.md",
     "Clippings/How to discover the statement and two proofs of Fermat's little theorem.md",
-    "Clippings/Mathematical Discussions.md",
+    "Galois Theory.md",
+    "Symmetric Equations.md",
+    "Clippings/Discovering a formula for the cubic.md",
+    "Discovering a formula for the cubic.md",
+    "Clippings/Defender on X the greatest irony is that the people that can get the best answers out of an LLM are those with the best people skills.md",
+    "category-folder/index.md",
     "Clippings/Discussions of miscellaneous mathematical topics. 1.md",
     "Clippings/maelstromdemo at main · jepsen-iomaelstrom.md",
     "Clippings/Obsidian Web Clipper.md",
@@ -213,11 +215,6 @@
     "Clippings/Created a python program to export games played from chess.com and open analysis board for them in lichess.md",
     "local first.md",
     "The Inner Game of Tennis.md",
-    "The Design of Everyday Things.md",
-    "The Box - How the Shipping Container made the world smaller and the world economy bigger.md",
-    "Prompt Engineering.md",
-    "Jab, Jab, Jab, Right Hook_ How to Tell Your Story in a Noisy Social World.md",
-    "Gilbert Strang.md",
     "Clippings",
     "category-folder"
   ]
