@@ -22,7 +22,7 @@ These pages are of various kinds, but they are nearly all attempts to show how m
 
 [Why is multiplication commutative?](https://www.dpmms.cam.ac.uk/~wtg10/commutative.html)
 
-How to invent some basic ideas of [[Galois theory]].
+How to invent some basic ideas of [[Galois Theory]].
 
 [1\. Algebraic numbers and field extensions.](https://www.dpmms.cam.ac.uk/~wtg10/galois.html)  
 [2\. A solution to the cubic.](https://www.dpmms.cam.ac.uk/~wtg10/cubic.html)  

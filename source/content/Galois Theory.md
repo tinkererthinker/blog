@@ -1,1 +1,1 @@
-Reference book: Harold M Edwards - Galois Theory
+Reference book: Harold M. Edwards- Galois Theory

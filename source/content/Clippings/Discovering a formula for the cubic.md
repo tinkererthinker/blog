@@ -69,7 +69,7 @@ $$
 \end{aligned}
 $$
 - This lets one solve for $u$; to solve for $v$ and $w$ one can then observe a residual cyclic symmetry between $v$ and $w$, prompting another Fourier transform $v=s+t, w=s-t$, which soon lets one solve for everything.
-- Presumably this can all be interpreted nicely in terms of the Galois group $S_3$, and in particular to the solvability of that group, especially given that solvable groups can be "built up" from abelian groups such as $\mathbb{Z} / 3 \mathbb{Z}$ and $\mathbb{Z} / 2 \mathbb{Z}$, which are precisely the groups which enjoy nice Fourier transforms. My [[Galois theory]] is incredibly rusty, though, so I don't see the connection clearly.
+- Presumably this can all be interpreted nicely in terms of the Galois group $S_3$, and in particular to the solvability of that group, especially given that solvable groups can be "built up" from abelian groups such as $\mathbb{Z} / 3 \mathbb{Z}$ and $\mathbb{Z} / 2 \mathbb{Z}$, which are precisely the groups which enjoy nice Fourier transforms. My [[Galois Theory]] is incredibly rusty, though, so I don't see the connection clearly.
 - By some coincidence, there is another blog post on the solvability of the cubic, this time from the perspective of classical invariant theory, at
   https://rigtriv.wordpress.com/2007/08/29/invariants-and-solving-polynomials/
 	- Basically, the philosophy here is to only permit yourself to write down expressions (such as the discriminant) which transform nicely under projective changes of coordinates. There are relatively few of these expressions, and so you have a smaller “search space” in which to find the invariants that factorise the original polynomial into linear factors.
