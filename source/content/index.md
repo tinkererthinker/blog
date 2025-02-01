@@ -12,6 +12,7 @@ I'm also attempting to understand the [[Chord Protocol]] which answers the quest
 # talking points
 
 -  [[local first]]
+- [[Why the concept of a field extension is a natural one]]
 
 ⚡ Fun fact: avid chess player, singing in choir
 
