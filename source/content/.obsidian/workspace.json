@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Galois Theory.md",
+                "file": "index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Galois Theory"
+              "title": "index"
             }
           },
           {
@@ -190,10 +190,10 @@
   },
   "active": "2d8837e6263008e3",
   "lastOpenFiles": [
+    "Galois Theory.md",
     "Clippings/Mathematical Discussions.md",
     "index.md",
     "Linear Algebra.md",
-    "Galois Theory.md",
     "Clippings/Thread by @visakanv.md",
     "Clippings/Help to resolve the conflict \"Not a file .obsidianworkspace.json\" - Help - Obsidian Forum.md",
     "Clippings/How To Learn & Memorise Any Voicing.md",
