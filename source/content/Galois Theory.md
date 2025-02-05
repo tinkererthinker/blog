@@ -15,8 +15,7 @@ cubic formulas
 ![](https://youtu.be/qOHkF26EKfg)
 Why No Quintic Formula? - Intuitive Explanation Attempt...
 
-how to describe a normal subgroup
-
-Vieta's formulas
-
-[[Mathematics via Problems - Algebra]]
+- algebraic structures and complex analysis
+- how to describe a normal subgroup
+- Vieta's formulas
+	- [[Mathematics via Problems - Algebra]]
