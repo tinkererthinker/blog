@@ -11,3 +11,9 @@ tags:
 ---
 `git rm --cached .obsidian/workspace.json`
 
+also you have to create a .gitignore file and include .obsidian/workspace.json
+- What is a .gitignore file? Where am I supposed to store it?
+	- https://stackoverflow.com/questions/5698148/where-does-the-gitignore-file-belong
+	- https://github.com/Vinzent03/obsidian-git/issues/114
+read more on [obsidiangit tips and tricks 150](https://publish.obsidian.md/git-doc/Tips-and-Tricks#Tips+and+Tricks)  
+you can read more about it in [stackoverflow: How do I make Git forget about a file that was tracked, but is now in .gitignore? 73](https://stackoverflow.com/questions/1274057/how-do-i-make-git-forget-about-a-file-that-was-tracked-but-is-now-in-gitignore)

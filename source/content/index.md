@@ -16,6 +16,8 @@ Patrick Honner nerdsniped me into studying the [[Linear Algebra | structure of r
 # talking points
 
 -  [[local first]]
+- [[Why the concept of a field extension is a natural one]]
+
 - ⚡ Fun fact: avid chess player, singing in choir
 
 ### Contact
