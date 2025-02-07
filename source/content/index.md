@@ -17,4 +17,7 @@ Patrick Honner nerdsniped me into studying the [[Linear Algebra | structure of r
 
 -  [[local first]]
 - ⚡ Fun fact: avid chess player, singing in choir
-- Contact: https://x.com/trangquest
+
+### Contact
+- https://x.com/trangquest
+- email: trang@trangla.de

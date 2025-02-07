@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Galois Theory.md",
+                "file": "index.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Galois Theory"
+              "title": "index"
             }
           }
         ]
@@ -50,7 +50,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -62,7 +63,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "galois theory",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -83,8 +84,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -104,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Galois Theory.md",
+                "file": "index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Galois Theory"
+              "title": "Backlinks for index"
             }
           },
           {
@@ -185,8 +185,11 @@
   },
   "active": "2d8837e6263008e3",
   "lastOpenFiles": [
-    "Clippings/Mathematical Discussions.md",
+    "@visakanv.md",
+    "Clippings/How should a good headphone sound? What is the \"Harman Target\"?.md",
+    "Clippings/What does the Optimum Hi-Fi profile mean, and is there one available for the Hifiman ananda?  roratory1990.md",
     "Galois Theory.md",
+    "Clippings/Mathematical Discussions.md",
     "Clippings/Discovering a formula for the cubic.md",
     "index.md",
     "Clippings/Help to resolve the conflict \"Not a file .obsidianworkspace.json\" - Help - Obsidian Forum.md",
@@ -208,9 +211,6 @@
     "conflict-files-obsidian-git.md",
     "Clippings/A Barebones Guide to Mechanistic Interpretability Prerequisites — Neel Nanda.md",
     "Mechanistic Interpretability.md",
-    "Distributed Systems.md",
-    "Clippings/Show HN Advent of Distributed Systems  Hacker News.md",
-    "Clippings/How to Search Instagram caption text.md",
     "Clippings",
     "category-folder"
   ]
