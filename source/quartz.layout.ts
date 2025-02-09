@@ -28,13 +28,18 @@ export const defaultContentPageLayout: PageLayout = {
     Component.Search(),
     Component.Darkmode(),
     Component.DesktopOnly(Component.Explorer()),
-    Component.RecentNotes(),
 
   ],
   right: [
     Component.Graph(),
     Component.DesktopOnly(Component.TableOfContents()),
     Component.Backlinks(),
+    Component.RecentNotes({
+      showTags: true,
+      title: "Recently updated notes:",
+      showDate: true,
+      limit: 4,
+    }),
   ],
 }
 
