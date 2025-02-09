@@ -37,12 +37,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Clippings/Help to resolve the conflict \"Not a file .obsidianworkspace.json\" - Help - Obsidian Forum.md",
+                "file": "tinygrad onboarding guide.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Help to resolve the conflict \"Not a file .obsidianworkspace.json\" - Help - Obsidian Forum"
+              "title": "tinygrad onboarding guide"
             }
           }
         ],
@@ -78,7 +78,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "workspace",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -99,12 +99,12 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 244.5
+    "width": 244.5,
+    "collapsed": true
   },
   "right": {
     "id": "ba1ec06a672fb227",
@@ -120,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Clippings/Help to resolve the conflict \"Not a file .obsidianworkspace.json\" - Help - Obsidian Forum.md",
+                "file": "tinygrad onboarding guide.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +130,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Help to resolve the conflict \"Not a file .obsidianworkspace.json\" - Help - Obsidian Forum"
+              "title": "Backlinks for tinygrad onboarding guide"
             }
           },
           {
@@ -186,7 +186,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -201,8 +202,15 @@
   },
   "active": "482ef4dbfa700100",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
+    "Pasted image 20250209204447.png",
+    "Pasted image 20250209204408.png",
+    "2025-02-09.md",
+    "tinygrad onboarding guide.md",
     "index.md",
+    "Clippings/Discovering a formula for the cubic.md",
+    "Clippings/Thread by @TomFrankly.md",
+    "Clippings/Help to resolve the conflict \"Not a file .obsidianworkspace.json\" - Help - Obsidian Forum.md",
+    "conflict-files-obsidian-git.md",
     "Why the concept of a field extension is a natural one.md",
     "Mathematics via Problems - Algebra.md",
     "Clippings/Tiptoe Tiger E37 🐯 Cheap Shots.md",
@@ -218,15 +226,9 @@
     "Clippings/What does the Optimum Hi-Fi profile mean, and is there one available for the Hifiman ananda?  roratory1990.md",
     "Galois Theory.md",
     "Clippings/Mathematical Discussions.md",
-    "Clippings/Discovering a formula for the cubic.md",
-    "Clippings/Help to resolve the conflict \"Not a file .obsidianworkspace.json\" - Help - Obsidian Forum.md",
     "[[Linear.md",
     "[[Today.md",
     "Timothy Gowers.md",
-    "Clippings/Geometry of a Polynomial.md",
-    "Elliptic Curve.md",
-    "Symmetric Equations.md",
-    "Linear Algebra.md",
     "Clippings",
     "category-folder"
   ]
