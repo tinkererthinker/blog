@@ -24,5 +24,4 @@ https://quartz.jzhao.xyz/configuration
 
 ## Coming from wordpress?
 
-Here you go:
-https://github.com/lonekorean/wordpress-export-to-markdown#readme
+[Get your content off wordpress](https://github.com/lonekorean/wordpress-export-to-markdown#readme) running a single script.
