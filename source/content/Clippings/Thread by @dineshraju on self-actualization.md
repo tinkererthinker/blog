@@ -1,14 +1,16 @@
 ---
-title: "Thread by @visakanv"
-source: "https://x.com/dineshraju/status/1662026500600901633"
+title: Thread by @dineshraju on self-actualization
+source: https://x.com/dineshraju/status/1662026500600901633
 author:
   - "[[@visakanv]]"
 published: 2023-05-25
 created: 2025-02-15
-description: "I originally wrote this after thinking through a question someone asked me about how to deal with doomscrolling Today someone else asked me"
+description: I originally wrote this after thinking through a question someone asked me about how to deal with doomscrolling Today someone else asked me
 tags:
-  - "clippings"
+  - clippings
 ---
+https://dinesh.eth.limo/notes/what-to-know/
+
 **Visakan Veerasamy** @visakanv [2023-05-25](https://x.com/visakanv/status/1661807845204189184)
 
 I originally wrote this after thinking through a question someone asked me about how to deal with doomscrolling

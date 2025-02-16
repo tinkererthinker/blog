@@ -67,7 +67,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "dinesh",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -88,7 +88,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -190,8 +191,9 @@
   },
   "active": "2d8837e6263008e3",
   "lastOpenFiles": [
-    "Flow State.md",
+    "Clippings/403 Forbidden - HTTP  MDN.md",
     "Clippings/Thread by @dineshraju on self-actualization.md",
+    "Flow State.md",
     "Tech Independence.md",
     "index.md",
     "Clippings/Discovering a formula for the cubic.md",
@@ -217,7 +219,6 @@
     "Clippings/How to Publish an Insta Novel. Using Instagram Stories to tell your… ….md",
     "Clippings/How should a good headphone sound? What is the \"Harman Target\"?.md",
     "2025-02-10.md",
-    "2025-02-09.md",
     "Clippings",
     "category-folder"
   ]
