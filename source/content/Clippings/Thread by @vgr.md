@@ -23,45 +23,17 @@ Learn stuff = +5k-15k for personal coach
 
 ---
 
-**Venkatesh Rao** @vgr [2020-01-01](https://x.com/vgr/status/1212459826053181442)
-
 Solving problems with money is more efficient in proportion to how much you value your mental effort resources for other stuff you enjoy more. If those activities pay on a leveraged way, the trade off is 100% worth it.
 
----
-
-**Venkatesh Rao** @vgr [2020-01-01](https://x.com/vgr/status/1212460460164796417)
-
-Why under 35? Because concentrating your mental resources on your comparative advantage creates a kind of high-drive exhausting raw energy positive feedback loop that I’ve only seen younger people handle well. And that loop is what creates the surplus to pay for other stuff.
-
----
-
-**Venkatesh Rao** @vgr [2020-01-01](https://x.com/vgr/status/1212461192830042112)
+Why under 35? Because concentrating your mental resources on your [[comparative advantage]] creates a kind of high-drive exhausting raw energy positive feedback loop that I’ve only seen younger people handle well. And that loop is what creates the surplus to pay for other stuff.
 
 The older you are the greater the financial surplus you need to achieve the same level of attention concentration on a core positive feedback loop. Money is a more achievable kind of leverage when you’re younger though you need it more badly when you’re older.
 
----
-
-**Venkatesh Rao** @vgr [2020-01-01](https://x.com/vgr/status/1212462621498077184)
-
 I’d need a million dollars today to achieve level of leverage I could have gotten with 100k in 2010. This is why for the average person, financial leverage drops with age. But we fixate on CEOs and entrepreneurs who buck that trend by making $-leverage faster than they are aging.
-
----
-
-**Venkatesh Rao** @vgr [2020-01-01](https://x.com/vgr/status/1212463169936883713)
 
 For financially average people like me, you fall behind on that game, and solving problems with money stops being an option, because you’re not efficient enough as a cost structure to achieve much with the surplus you have. So do it while you still can.
 
----
-
-**Venkatesh Rao** @vgr [2020-01-01](https://x.com/vgr/status/1212465899002679296)
-
 Counterintuitive but yes. That exec attention is more cdluable elsewhere when young and it’ll take a bigger, out-of-reach surplus to achieve similar reallocation efficiency when you’re older. Plus doing it when young installs stronger habits for later.
-
-> 2020-01-01
-> 
-> This is very interesting given my age. Can you please say more?
-> 
-> It's better to earn 10K more so I can afford personal trainer, instead of forgoing the income and trying to do exercise by myself?
 
 ---
 
