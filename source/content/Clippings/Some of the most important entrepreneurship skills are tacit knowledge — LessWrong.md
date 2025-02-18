@@ -13,7 +13,7 @@ tags:
 
 **Tacit knowledge or implicit knowledge—as opposed to formal, codified, or explicit knowledge—is knowledge that is difficult to express or extract, and thus more difficult to transfer to others by means of writing it down or verbalizing it. (**[**Source**](https://en.wikipedia.org/wiki/Tacit_knowledge)**)**
 
-Tacit knowledge is skills and knowledge that you learn intuitively or perceptually instead of active studying or training. 
+[[Tacit Knowledge]] is skills and knowledge that you learn intuitively or perceptually instead of active studying or training. 
 
 Active training helps, of course, but it’s hard to verbalize these skills—for instance, riding a bike or learning a particular branch of martial art. It is hard to learn martial art by merely reading a book about it. You have to go to a dojo and learn under a teacher. Most of these skills are more than cognitive intelligence. Your body learns how to ride a bike or do a particular kickboxing move. 
 
@@ -27,12 +27,10 @@ While having a theoretical or verbal grasp of these skills is helpful, to truly 
 
 Four entrepreneurial skills come to mind. These skills are similar to riding a bike. You can roughly describe how to ride a bike but you can't learn about biking just by reading the description. Description fails to teach biking.
 
-1\. Asking for help 
-2\. Obsession
-
-3\. Doing things as default
-
-4\. High pain tolerance
+1. Asking for help 
+2. Obsession
+3. Doing things as default
+4. High pain tolerance
 
 **Asking for help.** Undoubtedly one of the most important founder skills. Building a company is hard. You need all the help you can get. Founder and CEO of Healthcare startup Praava Health [Sylvana Q. Sinha told me in an interview](https://futurestartup.com/2018/12/12/the-most-critical-skill-for-an-early-stage-entrepreneur/) a few years ago that asking for help is imperative for the success of a founder. She said: 
 
@@ -100,6 +98,6 @@ So I think you can design strategies and tasks to practice several of these skil
 
 In Cognitive Behavioral Therapy (CBT), exposure therapy is commonly used to deal with fear and phobias. Many people are afraid of dogs. So if you go to a CBT therapist, one of the things the therapist will do is he will gradually expose you to dogs. Initially, in small doses and gradually, increasing the exposure. The exposure will gradually reduce your fear. It teaches your brain that all dogs are not harmful and you can safely be around dogs. Exposure therapy is often one of the most effective interventions in these instances. 
 
-I think practice and exposure are some of the best strategies when it comes to learning tacit knowledge. Exposure through reading, direct experience, and other means can help improve these skills. Two caveats here: one, you can’t expect to learn these skills overnight. Second, you can’t expect a practical scale to measure your progress. 
+I think practice and exposure are some of the best strategies when it comes to learning [[tacit knowledge]]. Exposure through reading, direct experience, and other means can help improve these skills. Two caveats here: one, you can’t expect to learn these skills overnight. Second, you can’t expect a practical scale to measure your progress. 
 
 Learning tacit knowledge is a subtle approach. It is tacit because we don’t have a direct or explicit understanding of how it works. We can explain how it works but explanations rarely communicate how it works accurately. That’s a difficult situation. Perhaps we have to learn how to better use our intuition and perceptual capacities to learn these skills. Most important, you have to be patient when you are trying to figure out how to learn these skills. In many instances, it will take time before you realize that you are making progress.
