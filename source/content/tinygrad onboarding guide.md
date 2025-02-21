@@ -1,7 +1,7 @@
 ---
 created: 2025-02-09
 ---
-I want to make sense of tinygrad's codebase. Let's dive in!
+I want to make sense of [[tinygrad]]'s codebase. Let's dive in!
 
 Why is tensor.py almost 4000 lines long?!?!
 
