@@ -37,12 +37,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2025-02-14.md",
+                "file": "Clippings/Thread by @visakanv marketing.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-02-14"
+              "title": "Thread by @visakanv marketing"
             }
           }
         ],
@@ -78,7 +78,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "shift",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -99,7 +99,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -119,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2025-02-10.md",
+                "file": "Clippings/Thread by @visakanv marketing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +130,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 2025-02-10"
+              "title": "Backlinks for Thread by @visakanv marketing"
             }
           },
           {
@@ -185,8 +186,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -201,10 +201,22 @@
   },
   "active": "482ef4dbfa700100",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
-    "2025-02-14.md",
-    "comparative advantage.md",
+    "2025-02-18.md",
+    "Clippings/Thread by @visakanv marketing.md",
+    "local first.md",
     "Tech Independence.md",
+    "garrod2004.md",
+    "2025-02-14.md",
+    "conflict-files-obsidian-git.md",
+    "Tacit Knowledge.md",
+    "Landing Page.md",
+    "Clippings/Thread by @KevinAFischer.md",
+    "Clippings/Some of the most important entrepreneurship skills are tacit knowledge — LessWrong.md",
+    "Clippings/Garmin's ~$40B Pivot.md",
+    "Clippings/Error EACCES permission denied, access 'usrlocallibnode_modules'  Better Stack Community.md",
+    "Clippings/A year of uv pros, cons, and should you migrate.md",
+    "2025-02-16.md",
+    "comparative advantage.md",
     "Flow State.md",
     "Clippings/lets ignore the US for a second, how’s the rest of the world doing.md",
     "Clippings/Why you should write merge requests like you’re posting to Instagram.md",
@@ -215,18 +227,6 @@
     "Clippings/Thread by @DefenderOfBasic JSON.md",
     "Clippings/I wanted to see how far I could push myself creatively. So I redesigned Instagram..md",
     "Clippings/How is an HAR (HTTP Archive) file created by a browser What happens in the background.md",
-    "Clippings/Gossip Glomers.md",
-    "Clippings/Distributed Systems Challenges, Experiences and Tips.md",
-    "Clippings/Boilerplate Advice.md",
-    "Clippings/Acting Dead, Trading Up and Leaving the Middle Class.md",
-    "Clippings/403 Forbidden - HTTP  MDN.md",
-    "index.md",
-    "category-folder/index.md",
-    "Clippings/The outlier paradox.md",
-    "2025-02-10.md",
-    "Timothy Gowers.md",
-    "Terence Tao.md",
-    "Clippings/I have a few qualms with this app 1. For a Linux user, you can already build su...  Hacker News.md",
     "Pasted image 20250209204408.png",
     "Pasted image 20250209204447.png",
     "Clippings",
