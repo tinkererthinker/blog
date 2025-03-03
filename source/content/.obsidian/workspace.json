@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Clippings/Vitalik Buterin on popup-ama  Warpcast.md",
+                "file": "Clippings/How time-tracking helps your business evolve - Time Tracking Library.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Vitalik Buterin on popup-ama  Warpcast"
+              "title": "How time-tracking helps your business evolve - Time Tracking Library"
             }
           }
         ],
@@ -68,7 +68,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "running",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -89,11 +89,13 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "ba1ec06a672fb227",
@@ -189,11 +191,24 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b77831b90dd9f87b",
+  "active": "41f395d87b9e30e1",
   "lastOpenFiles": [
-    "Dynamicland.md",
-    "Clippings/Vitalik Buterin on popup-ama  Warpcast.md",
+    "Clippings/The Art of Wandering While Traveling - The New York Times.md",
+    "Clippings/How time-tracking helps your business evolve - Time Tracking Library.md",
+    "Clippings/Thread by @nntaleb flaneuring.md",
+    "Clippings/Creator's Companion - Thomas Frank.md",
+    "Clippings/Thread by @visakanv 2.md",
+    "Clippings/Thread by @TomFrankly (running).md",
+    "Clippings/The Benefits of Hill Sprints for Novice Distance Runners - Runners Connect.md",
+    "Clippings/do you use tcpdump in your day-to-day life? what do you use it for?.md",
+    "Clippings/Dynamicland and design studio.md",
+    "Clippings/Magic Ink  Information Software and the Graphical Interface.md",
+    "Clippings/Thread by @simonw.md",
+    "2025-02-21.md",
     "2025-02-20.md",
+    "Clippings/Vitalik Buterin's values.md",
+    "Diffusion of Innovations.md",
+    "Dynamicland.md",
     "Clippings/uv An extremely Fast Python Package Manager  Jane Street.md",
     "Clippings/Documenters.org Making Local Government More Accountable.md",
     "Clippings/Thread by @dieworkwear.md",
@@ -204,19 +219,6 @@
     "Landing Page.md",
     "Clippings/Discovering a formula for the cubic.md",
     "Clippings/Garmin's ~$40B Pivot.md",
-    "Clippings/Thread by @dineshraju on self-actualization.md",
-    "Clippings/A year of uv pros, cons, and should you migrate.md",
-    "2025-01-25.md",
-    "Clippings/Thread by @KevinAFischer.md",
-    "Clippings/Some of the most important entrepreneurship skills are tacit knowledge — LessWrong.md",
-    "Tacit Knowledge.md",
-    "conflict-files-obsidian-git.md",
-    "Clippings/The outlier paradox.md",
-    "2025-02-14.md",
-    "garrod2004.md",
-    "Dijkstra's Algorithm.md",
-    "Clippings/Error EACCES permission denied, access 'usrlocallibnode_modules'  Better Stack Community.md",
-    "Clippings/403 Forbidden - HTTP  MDN.md",
     "Pasted image 20250209204447.png",
     "Pasted image 20250209204408.png",
     "Clippings",
