@@ -5,7 +5,7 @@ As I was trying to pick up [[Machine Learning]] and [[Abstract Algebra]], I real
 
 My goal is to contribute to tinygrad and work with George Hotz at tinycorp some day.
 
-### Contact
+### Connect with Me
 - Join me on [twitter](https://x.com/trangquest).
 - email: trang@trangla.de
 
