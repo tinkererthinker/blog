@@ -9,4 +9,5 @@ My goal is to contribute to tinygrad and work with George Hotz at tinycorp some 
 - Join me on [twitter](https://x.com/trangquest).
 - email: trang@trangla.de
 
+
 *Thanks to Derek Sivers for inspiring me to create my own [now page](https://nownownow.com/about) and thanks to [defenderofbasic](https://x.com/DefenderOfBasic) for helping me to [set up my own blog](https://github.com/DefenderOfBasic/obsidian-quartz-template)!*
