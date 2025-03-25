@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Clippings/Thread by @Anagramaban.md",
+                "file": "index.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Thread by @Anagramaban"
+              "title": "index"
             }
           },
           {
@@ -144,7 +144,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Clippings/Thread by @Anagramaban.md",
+                "file": "index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -154,7 +154,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Thread by @Anagramaban"
+              "title": "Backlinks for index"
             }
           },
           {
@@ -225,8 +225,9 @@
   },
   "active": "2d8837e6263008e3",
   "lastOpenFiles": [
-    "Clippings/\"I can tell for myself\".md",
+    "category-folder/index.md",
     "Clippings/Thread by @Anagramaban.md",
+    "Clippings/\"I can tell for myself\".md",
     "Clippings/Oppressive cultures you don’t get to know what you know.md",
     "index.md",
     "Clippings/Thread by @deepfates.md",
@@ -250,7 +251,6 @@
     "Clippings/From prediction markets to info finance.md",
     "Clippings/Dynamicland and design studio.md",
     "Clippings/Creator's Companion - Thomas Frank.md",
-    "2025-03-06.md",
     "Pasted image 20250209204408.png",
     "Pasted image 20250209204447.png",
     "Clippings",

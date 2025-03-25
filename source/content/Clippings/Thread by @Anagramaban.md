@@ -40,3 +40,7 @@ Thank you for the guidance my friend!! I feel reinvigorated knowing that you, th
 "I will go forward with the framing that I’m setting up someone better-suited to solve this problem" 💯
 
 this is the way. Do the most important work until someone more competent takes over. No one is coming to save us
+
+---
+
+For example, Jack Dorsey first had the idea for Twitter in 2000, but it wasn’t until 2006 that he found himself in the fortunate situation of being part of a talented team at Odeo that could help him build it.
