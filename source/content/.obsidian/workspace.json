@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Clippings/Thread by @visakanv travelling.md",
+                "file": "Linear Algebra.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Thread by @visakanv travelling"
+              "title": "Linear Algebra"
             }
           },
           {
@@ -144,7 +144,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Clippings/Thread by @visakanv travelling.md",
+                "file": "Linear Algebra.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -154,7 +154,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Thread by @visakanv travelling"
+              "title": "Backlinks for Linear Algebra"
             }
           },
           {
@@ -225,8 +225,8 @@
   },
   "active": "2d8837e6263008e3",
   "lastOpenFiles": [
-    "index.md",
     "Clippings/Thread by @visakanv travelling.md",
+    "index.md",
     "category-folder/index.md",
     "Clippings/Thread by @Anagramaban.md",
     "Clippings/\"I can tell for myself\".md",
