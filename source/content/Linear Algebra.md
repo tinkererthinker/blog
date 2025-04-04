@@ -15,6 +15,7 @@ When your linear algebra course boils down to one theorem
 https://x.com/Anthony_Bonato/status/1880634250065748471
 
 THEOREM 5.1.5 Equivalent Statements
+
 If $A$ is an $n \times n$ matrix, then the following statements are equivalent:
 (a) $A$ is invertible.
 (b) $A \mathbf{x}=\mathbf{0}$ has only the trivial solution.
