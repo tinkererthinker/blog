@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cooking for Engineers.md",
+                "file": "index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Cooking for Engineers"
+              "title": "index"
             }
           }
         ],
@@ -123,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cooking for Engineers.md",
+                "file": "Clippings/Thread by @IvanVendrov skill issue.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +133,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Cooking for Engineers"
+              "title": "Backlinks for Thread by @IvanVendrov skill issue"
             }
           },
           {
@@ -189,7 +189,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -204,8 +205,10 @@
   },
   "active": "251ecab350de9a7b",
   "lastOpenFiles": [
-    "index.md",
+    "Pasted image 20250420215109.png",
+    "Clippings/Thread by @IvanVendrov skill issue.md",
     "Cooking for Engineers.md",
+    "index.md",
     "Clippings/Why Instant Pot Users Are Obsessing Over This $35 Cart from Target.md",
     "Clippings/Thread by @visakanv caring about fictional characters.md",
     "Pride and Prejudice.md",
@@ -230,8 +233,6 @@
     "Clippings/Thread by @Conaw 5.md",
     "Clippings/Thread by @Conaw 4.md",
     "Clippings/Thread by @Conaw 3.md",
-    "Clippings/Thread by @Conaw 2.md",
-    "Clippings/Thread by @Conaw 11.md",
     "Pasted image 20250209204447.png",
     "Pasted image 20250209204408.png",
     "Clippings",
