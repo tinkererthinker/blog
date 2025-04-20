@@ -7,6 +7,10 @@ As I was trying to pick up [[Machine Learning]] and [[Abstract Algebra]], I real
 
 My goal is to contribute to tinygrad and work with George Hotz at tinycorp some day.
 
+## Creating a guide on learning how to cook
+
+[[Cooking for Engineers]]
+
 ### Connect with Me
 - Join me on [twitter](https://x.com/trangquest).
 - email: trang@trangla.de

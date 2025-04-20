@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Clippings/Thread by @carmenleelau.md",
+                "file": "Cooking for Engineers.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Thread by @carmenleelau"
+              "title": "Cooking for Engineers"
             }
           }
         ],
@@ -123,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Dynamicland.md",
+                "file": "Cooking for Engineers.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +133,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Dynamicland"
+              "title": "Backlinks for Cooking for Engineers"
             }
           },
           {
@@ -189,8 +189,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -205,8 +204,16 @@
   },
   "active": "251ecab350de9a7b",
   "lastOpenFiles": [
-    "Clippings/Thread by @visakanv how to earn followers.md",
+    "index.md",
+    "Cooking for Engineers.md",
+    "Clippings/Why Instant Pot Users Are Obsessing Over This $35 Cart from Target.md",
+    "Clippings/Thread by @visakanv caring about fictional characters.md",
+    "Pride and Prejudice.md",
+    "Clippings/Thread by @visakanv unlikeable characters in fiction framed in ways that are compelling.md",
+    "Clippings/Thread by @visakanv unlikeable characters in fiction framed in ways that are compelling.md~",
+    "Clippings/Thread by @visakanv caring about fictional characters.md~",
     "Clippings/Thread by @carmenleelau.md",
+    "Clippings/Thread by @visakanv how to earn followers.md",
     "Clippings/Thread by @DefenderOfBasic memetic warfare.md",
     "Clippings/Thread by @visakanv gender.md",
     "conflict-files-obsidian-git.md",
@@ -225,12 +232,6 @@
     "Clippings/Thread by @Conaw 3.md",
     "Clippings/Thread by @Conaw 2.md",
     "Clippings/Thread by @Conaw 11.md",
-    "Clippings/Thread by @Conaw 10.md",
-    "Clippings/Thread by @Conaw 1.md",
-    "Clippings/Thread by @Anagramaban.md",
-    "Clippings/The Star Wars social network.md",
-    "Clippings/Oppressive cultures you don’t get to know what you know.md",
-    "Clippings/\"I can tell for myself\".md",
     "Pasted image 20250209204447.png",
     "Pasted image 20250209204408.png",
     "Clippings",
