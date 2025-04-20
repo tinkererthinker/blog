@@ -9,7 +9,7 @@ My goal is to contribute to tinygrad and work with George Hotz at tinycorp some 
 
 ## Creating a guide on learning how to cook
 
-[[Cooking for Engineers]]
+[[Cooking for Engineers]] (noobish)
 
 ### Connect with Me
 - Join me on [twitter](https://x.com/trangquest).
