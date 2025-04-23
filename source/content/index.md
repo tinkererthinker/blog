@@ -7,7 +7,7 @@ What most math looks like:
 
 ![[Pasted image 20250420215109.png]]
 
-We are all too familiar with it. It's the mathematical equivalent to how to draw a fucking owl. Trivial. Why can't you see it?
+We are all too familiar with it. It's the mathematical equivalent to how to draw a fucking owl. Trivial. Why can't you see it? The proof is obvious!
 
 I want to find the cure to math phobia. Can a normal pleb like me perform indescribable mental motions? Is math only for the elite? I'm testing [math academy's](https://www.mathacademy.com/) system to find out.
 
@@ -15,6 +15,9 @@ I want to find the cure to math phobia. Can a normal pleb like me perform indesc
 
 [[Cooking for Engineers]] (noobish)
 
+## Now reading
+
+These are the books I would recommend in order to [[How to Learn to See the World As It Is|learn to see the world as it is]].
 ### Connect with Me
 - Join me on [twitter](https://x.com/trangquest).
 - email: trang@trangla.de
