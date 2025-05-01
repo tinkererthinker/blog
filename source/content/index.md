@@ -3,10 +3,21 @@ title: What I'm Doing Now
 ---
 ## Documenting my journey from high school math to cutting-edge ML/AI
 
-As I was trying to pick up [[Machine Learning]] and [[Abstract Algebra]], I realised that I had huge knowledge gaps in some math foundations. Past attempts of self-teaching myself like watching lectures and reading textbooks were unsuccessful and time-consuming though. Luckily enough, I came across Math Academy which has helped me to accelerate my learning process.
+What most math looks like:
 
-My goal is to contribute to tinygrad and work with George Hotz at tinycorp some day.
+![[Pasted image 20250420215109.png]]
 
+We are all too familiar with it. It's the mathematical equivalent to how to draw a fucking owl. Trivial. Why can't you see it? The proof is obvious!
+
+I want to find the cure to math phobia. Can a normal pleb like me perform indescribable mental motions? Is math only for the elite? I'm testing [math academy's](https://www.mathacademy.com/) system to find out.
+
+## Creating a guide on learning how to cook
+
+[[Cooking for Engineers]] (noobish)
+
+## Now reading
+
+These are the books I would recommend in order to [[How to Learn to See the World As It Is|learn to see the world as it is]].
 ### Connect with Me
 - Join me on [twitter](https://x.com/trangquest).
 - email: trang@trangla.de

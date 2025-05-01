@@ -32,6 +32,20 @@
             }
           },
           {
+            "id": "e599c4d257a235aa",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "conflict-files-obsidian-git"
+            }
+          },
+          {
             "id": "482ef4dbfa700100",
             "type": "leaf",
             "state": {
@@ -71,7 +85,8 @@
               "title": "Thread by @deepfates"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -145,7 +160,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Clippings/The Hierarchy of Investor Needs.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -155,7 +170,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for The Hierarchy of Investor Needs"
+              "title": "Backlinks for conflict-files-obsidian-git"
             }
           },
           {
@@ -224,34 +239,36 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "0829eb50dbb8a2b3",
+  "active": "e599c4d257a235aa",
   "lastOpenFiles": [
-    "Clippings/Thread by @shurensha math academy 2.md",
     "Clippings/The Hierarchy of Investor Needs.md",
+    "conflict-files-obsidian-git.md",
+    "Pride and Prejudice.md",
+    "Pasted image 20250423112918.png",
+    "Pasted image 20250420215109.png",
+    "How to Learn to See the World As It Is.md",
+    "Cooking for Engineers.md",
+    "Clippings/Why Instant Pot Users Are Obsessing Over This $35 Cart from Target.md",
+    "Clippings/Thread by @visakanv unlikeable characters in fiction framed in ways that are compelling.md",
+    "Clippings/Thread by @visakanv how to earn followers.md",
+    "Clippings/Thread by @visakanv gender.md",
+    "Clippings/Thread by @visakanv caring about fictional characters.md",
+    "Clippings/Thread by @visakanv 3.md",
+    "Clippings/Thread by @justinskycak.md",
+    "Clippings/Thread by @dieworkwear hobbyist forums.md",
+    "Clippings/Thread by @carmenleelau.md",
+    "Clippings/Thread by @IvanVendrov skill issue.md",
+    "Clippings/Thread by @DefenderOfBasic memetic warfare.md",
+    "Clippings/Solitude and Leadership.md",
+    "Clippings/My Sketching Tips.md",
+    "Clippings/Inside the Hermès Workshop That Makes Its Iconic Bags.md",
+    "Clippings/How much of a jazz tune should I pre-arrange.md",
+    "Clippings/Build The Foundation For Ear Training And You Can't Fail.md",
+    "Clippings/'Oh you'll hear it'.md",
+    "Clippings/Thread by @shurensha math academy 2.md",
     "Clippings/Grocery shopping with NO list?.md",
     "Clippings/Thread by @vgr second brain.md",
     "Clippings/Thread by @vgr GSCITC.md",
-    "Clippings/Thread by @vgr.md",
-    "Clippings/Thread by @visakanv 2.md",
-    "Clippings/Thread by @vgr make more money.md",
-    "Clippings/\"I can tell for myself\".md",
-    "Clippings/The Star Wars social network.md",
-    "Clippings/Thread by @Conaw 1.md",
-    "Clippings/Thread by @Conaw 2.md",
-    "Clippings/Thread by @Conaw 11.md",
-    "Clippings/Thread by @Conaw.md",
-    "Clippings/Thread by @deepfates.md",
-    "Clippings/Thread by @Conaw 3.md",
-    "Clippings/Thread by @Conaw 5.md",
-    "Clippings/Thread by @Conaw 4.md",
-    "Clippings/Thread by @Conaw 6.md",
-    "Clippings/Thread by @Conaw 7.md",
-    "Clippings/Thread by @Conaw 10.md",
-    "Clippings/Thread by @Conaw 9.md",
-    "Clippings/Thread by @Conaw 8.md",
-    "Clippings/Thread by @suntzoogway.md",
-    "Clippings/Thread by @ninja_maths math academy.md",
-    "Clippings/Thread by @shurensha math academy.md",
     "Pasted image 20250209204408.png",
     "Pasted image 20250209204447.png",
     "Clippings",
