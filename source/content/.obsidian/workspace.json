@@ -13,9 +13,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Clippings/Thread by @vgr GSCITC.md",
+                "file": "Clippings/The Hierarchy of Investor Needs.md",
                 "mode": "source",
-                "source": true,
+                "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
                   "collapseAll": false,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Thread by @vgr GSCITC"
+              "title": "The Hierarchy of Investor Needs"
             }
           },
           {
@@ -103,7 +103,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "jab",
+                "query": "invest struggle",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -124,7 +124,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -144,7 +145,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Clippings/Thread by @vgr GSCITC.md",
+                "file": "Clippings/The Hierarchy of Investor Needs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -154,7 +155,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Thread by @vgr GSCITC"
+              "title": "Backlinks for The Hierarchy of Investor Needs"
             }
           },
           {
@@ -223,10 +224,18 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "2d8837e6263008e3",
+  "active": "0829eb50dbb8a2b3",
   "lastOpenFiles": [
-    "Clippings/The Star Wars social network.md",
+    "Clippings/Thread by @shurensha math academy 2.md",
+    "Clippings/The Hierarchy of Investor Needs.md",
+    "Clippings/Grocery shopping with NO list?.md",
+    "Clippings/Thread by @vgr second brain.md",
     "Clippings/Thread by @vgr GSCITC.md",
+    "Clippings/Thread by @vgr.md",
+    "Clippings/Thread by @visakanv 2.md",
+    "Clippings/Thread by @vgr make more money.md",
+    "Clippings/\"I can tell for myself\".md",
+    "Clippings/The Star Wars social network.md",
     "Clippings/Thread by @Conaw 1.md",
     "Clippings/Thread by @Conaw 2.md",
     "Clippings/Thread by @Conaw 11.md",
@@ -243,14 +252,6 @@
     "Clippings/Thread by @suntzoogway.md",
     "Clippings/Thread by @ninja_maths math academy.md",
     "Clippings/Thread by @shurensha math academy.md",
-    "Linear Algebra.md",
-    "Clippings/Thread by @visakanv travelling.md",
-    "index.md",
-    "category-folder/index.md",
-    "Clippings/Thread by @Anagramaban.md",
-    "Clippings/\"I can tell for myself\".md",
-    "Clippings/Oppressive cultures you don’t get to know what you know.md",
-    "conflict-files-obsidian-git.md",
     "Pasted image 20250209204408.png",
     "Pasted image 20250209204447.png",
     "Clippings",
