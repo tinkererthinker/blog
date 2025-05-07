@@ -33,27 +33,11 @@ Action/polis emotions: exhilaration, terror, anger, vengefulness, poignancy
 
 The range expands the further you go from home and expand your spatio-temporal horizons
 
----
-
-**Venkatesh Rao** @vgr [2019-08-05](https://x.com/vgr/status/1158195974117810182)
-
 Aesthetic and competitive emotions live on the edge between making and action. Artists and traders are almost-complete humans. Edge of being of homo faber. Not yet prepared to appear in public and be recognized as human and part of history, but willing to appear by proxy.
-
----
-
-**Venkatesh Rao** @vgr [2019-08-05](https://x.com/vgr/status/1158196146218471425)
 
 Domestic emotions are limited in space but also in time to +/- 1 generation.
 
----
-
-**Venkatesh Rao** @vgr [2019-08-05](https://x.com/vgr/status/1158196568631074816)
-
 Trying to get at the long-term emotional toll of domestic cozy, the cost of having a mind bound within ‘narrow domestic walls’ as Tagore called it.
-
----
-
-**Venkatesh Rao** @vgr [2019-08-05](https://x.com/vgr/status/1158197276281491457)
 
 This is high-modernist idealism, but it gets at something deep. I’d like to see a cyberpunk/hacker sensibility postmodern-pragmatic GenX version of this poem. A $5 challenge.
 
