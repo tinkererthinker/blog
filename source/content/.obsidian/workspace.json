@@ -55,12 +55,22 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Clippings/How much of a jazz tune should I pre-arrange.md",
+                "file": "Clippings/Thread by @vgr expand emotional range.md",
                 "mode": "source",
-                "source": false
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
               "icon": "lucide-file",
-              "title": "How much of a jazz tune should I pre-arrange"
+              "title": "Thread by @vgr expand emotional range"
             }
           }
         ],
@@ -219,8 +229,19 @@
   },
   "active": "5def85f701558ad1",
   "lastOpenFiles": [
-    "2025-01-25.md",
+    "Clippings/How to never lose your 14″ to 18″ headphone adapter, ever, ever again..md",
+    "Clippings/Thread by @vgr expand emotional range.md",
+    "Clippings/How Taylor Tomlinson Nailed Her Closing Joke (Published 2024).md",
+    "Clippings/How Taylor Tomlinson came up with her closer.md",
+    "Pasted image 20250501211058.png",
+    "Pasted image 20250501211052.png",
+    "Pasted image 20250501211041.png",
+    "Clippings/How Taylor Tomlinson Conquered Comedy -- and Her Fear of Death.md",
+    "Clippings/Thread by @visakanv creating learning environments for kids.md",
+    "Clippings/Thread by @balajis.md",
+    "Jazz Piano.md",
     "Clippings/How much of a jazz tune should I pre-arrange.md",
+    "2025-01-25.md",
     "Clippings/Build The Foundation For Ear Training And You Can't Fail.md",
     "Clippings/'Oh you'll hear it'.md",
     "Clippings/My Sketching Tips.md",
@@ -241,14 +262,6 @@
     "Clippings/Thread by @visakanv unlikeable characters in fiction framed in ways that are compelling.md~",
     "Clippings/Thread by @visakanv caring about fictional characters.md~",
     "Clippings/Thread by @carmenleelau.md",
-    "Clippings/Thread by @visakanv how to earn followers.md",
-    "Clippings/Thread by @DefenderOfBasic memetic warfare.md",
-    "Clippings/Thread by @visakanv gender.md",
-    "conflict-files-obsidian-git.md",
-    "Clippings/Thread by @visakanv travelling.md",
-    "Clippings/Thread by @vgr GSCITC.md",
-    "Clippings/Thread by @suntzoogway.md",
-    "Clippings/Thread by @shurensha math academy.md",
     "Pasted image 20250209204447.png",
     "Pasted image 20250209204408.png",
     "Clippings",
