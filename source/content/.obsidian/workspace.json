@@ -72,9 +72,23 @@
               "icon": "lucide-file",
               "title": "Thread by @vgr expand emotional range"
             }
+          },
+          {
+            "id": "cc33c0653e99b483",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "conflict-files-obsidian-git"
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -227,10 +241,16 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "5def85f701558ad1",
+  "active": "cc33c0653e99b483",
   "lastOpenFiles": [
-    "Clippings/How to never lose your 14″ to 18″ headphone adapter, ever, ever again..md",
     "Clippings/Thread by @vgr expand emotional range.md",
+    "conflict-files-obsidian-git.md",
+    "Clippings/Thread by @vgr second brain.md",
+    "Clippings/Thread by @vgr make more money.md",
+    "Clippings/Thread by @shurensha math academy 2.md",
+    "Clippings/The Hierarchy of Investor Needs.md",
+    "Clippings/Grocery shopping with NO list?.md",
+    "Clippings/How to never lose your 14″ to 18″ headphone adapter, ever, ever again..md",
     "Clippings/How Taylor Tomlinson Nailed Her Closing Joke (Published 2024).md",
     "Clippings/How Taylor Tomlinson came up with her closer.md",
     "Pasted image 20250501211058.png",
@@ -254,14 +274,8 @@
     "Clippings/Solitude and Leadership.md",
     "Pasted image 20250420215109.png",
     "Clippings/Thread by @IvanVendrov skill issue.md",
-    "Cooking for Engineers.md",
-    "Clippings/Why Instant Pot Users Are Obsessing Over This $35 Cart from Target.md",
-    "Clippings/Thread by @visakanv caring about fictional characters.md",
-    "Pride and Prejudice.md",
-    "Clippings/Thread by @visakanv unlikeable characters in fiction framed in ways that are compelling.md",
     "Clippings/Thread by @visakanv unlikeable characters in fiction framed in ways that are compelling.md~",
     "Clippings/Thread by @visakanv caring about fictional characters.md~",
-    "Clippings/Thread by @carmenleelau.md",
     "Pasted image 20250209204447.png",
     "Pasted image 20250209204408.png",
     "Clippings",
