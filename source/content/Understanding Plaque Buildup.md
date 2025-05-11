@@ -12,4 +12,3 @@ F & =\int v(r) d A \\
 $$
 
 
-Wait. I actually understand this integral.
