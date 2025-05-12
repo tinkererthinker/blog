@@ -46,17 +46,31 @@
             }
           },
           {
+            "id": "35b971380acc5d36",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "How to Learn to See the World As It Is.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "How to Learn to See the World As It Is"
+            }
+          },
+          {
             "id": "2d4b0cd68e292154",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
+                "file": "Clippings/Leonardo da Vinci's notebooks · V&A.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "Leonardo da Vinci's notebooks · V&A"
             }
           },
           {
@@ -147,7 +161,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "index.md",
+                "file": "How to Learn to See the World As It Is.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -157,7 +171,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for index"
+              "title": "Backlinks for How to Learn to See the World As It Is"
             }
           },
           {
@@ -226,10 +240,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "2d4b0cd68e292154",
+  "active": "35b971380acc5d36",
   "lastOpenFiles": [
-    "How to Improvise And Compose Music.md",
     "index.md",
+    "Clippings/Leonardo da Vinci's notebooks · V&A.md",
+    "How to Improvise And Compose Music.md",
     "Math Academy.md",
     "conflict-files-obsidian-git.md",
     "Understanding Plaque Buildup.md",
@@ -260,7 +275,6 @@
     "Pasted image 20250420215109.png",
     "How to Learn to See the World As It Is.md",
     "Cooking for Engineers.md",
-    "Clippings/Why Instant Pot Users Are Obsessing Over This $35 Cart from Target.md",
     "Pasted image 20250209204408.png",
     "Pasted image 20250209204447.png",
     "Clippings",
