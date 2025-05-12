@@ -9,7 +9,7 @@ description: "I have been learning jazz piano (mainly solo) for a few months and
 tags:
   - "clippings"
 ---
-I have been learning jazz piano (mainly solo) for a few months and am trying to incorporate more color and more interesting voicings in my chords. However, I find it very difficult to keep the voicings I use for every single chord in a tune in my head.
+I have been learning [[Jazz Piano]] (mainly solo) for a few months and am trying to incorporate more color and more interesting voicings in my chords. However, I find it very difficult to keep the voicings I use for every single chord in a tune in my head.
 
 **Should I be annotating my lead sheets with the voicings, or even writing full sheet music for every tune I learn?** Or am I supposed to be figuring out the voicings on the spot, possibly playing different ones every time I play the tune? Is writing down a full arrangement (except for the sections I'm supposed to improvise over, of course) against the spirit of jazz? Will it do more harm than good in the long term?
 
