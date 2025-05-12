@@ -19,3 +19,14 @@ Why No Quintic Formula? - Intuitive Explanation Attempt...
 - how to describe a normal subgroup
 - Vieta's formulas
 	- [[Mathematics via Problems - Algebra]]
+
+update: 04.05.2025
+## The beginnings of Galois theory
+
+$x^5-5 x+12=0$
+
+![[Pasted image 20250504131446.png|200]]
+
+> But this massive work is an attempt to curate sequences of problems for secondary students (the stated focus is high school students, but that can be broadly interpreted) that allow them to discover and recreate much of “elementary” mathematics (number theory, polynomials, inequalities, calculus, geometry, combinatorics, game theory, probability) and start edging into the sophisticated world of group theory, Galois theory, etc. ~ [[Mathematics via Problems - Algebra]]
+
+- pushing myself to my limits, developing the language as I go

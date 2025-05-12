@@ -5,11 +5,11 @@ title: What I'm Doing Now
 
 What most math looks like:
 
-![[Pasted image 20250420215109.png]]
+![[Pasted image 20250420215109.png|500]]
 
 We are all too familiar with it. It's the mathematical equivalent to how to draw a fucking owl. Trivial. Why can't you see it? The proof is obvious!
 
-I want to find the cure to math phobia. Can a normal pleb like me perform indescribable mental motions? Is math only for the elite? I'm testing [math academy's](https://www.mathacademy.com/) system to find out.
+I want to find the cure to math phobia. Can a normal pleb like me perform indescribable mental motions? Is math only for the elite? I'm testing [[Math Academy]] system to find out.
 
 ## Creating a guide on learning how to cook
 
