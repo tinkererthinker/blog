@@ -51,12 +51,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "How to Improvise And Compose Music.md",
+                "file": "index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "How to Improvise And Compose Music"
+              "title": "index"
             }
           },
           {
@@ -147,7 +147,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "How to Improvise And Compose Music.md",
+                "file": "index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -157,7 +157,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for How to Improvise And Compose Music"
+              "title": "Backlinks for index"
             }
           },
           {
@@ -228,8 +228,8 @@
   },
   "active": "2d4b0cd68e292154",
   "lastOpenFiles": [
-    "index.md",
     "How to Improvise And Compose Music.md",
+    "index.md",
     "Math Academy.md",
     "conflict-files-obsidian-git.md",
     "Understanding Plaque Buildup.md",

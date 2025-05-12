@@ -1,6 +1,7 @@
 ---
 title: What I'm Doing Now
 ---
+This blog is very much inspired by Leonardo Da Vinci's notebooks. Basically, it is a journal documenting my research. So, don't expect this to be some kind of curated experience. It is more like a magic junkyard or an artist's studio. Make yourself comfortable!
 ## Documenting my journey from high school math to cutting-edge ML/AI
 
 What most math looks like:
