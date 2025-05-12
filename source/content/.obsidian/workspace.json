@@ -51,50 +51,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Math Academy.md",
+                "file": "How to Improvise And Compose Music.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Math Academy"
-            }
-          },
-          {
-            "id": "0ecbdd09239b48c5",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.8.10"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.8.10"
-            }
-          },
-          {
-            "id": "3c99327b16c1d02b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "conflict-files-obsidian-git.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "conflict-files-obsidian-git"
-            }
-          },
-          {
-            "id": "f77873760a47f129",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.8.7"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.8.7"
+              "title": "How to Improvise And Compose Music"
             }
           },
           {
@@ -112,7 +74,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -185,7 +147,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "How to Improvise And Compose Music.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -195,7 +157,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for conflict-files-obsidian-git"
+              "title": "Backlinks for How to Improvise And Compose Music"
             }
           },
           {
@@ -264,8 +226,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "3c99327b16c1d02b",
+  "active": "2d4b0cd68e292154",
   "lastOpenFiles": [
+    "index.md",
+    "How to Improvise And Compose Music.md",
+    "Math Academy.md",
     "conflict-files-obsidian-git.md",
     "Understanding Plaque Buildup.md",
     "Pasted image 20250501211058.png",
@@ -285,8 +250,6 @@
     "Clippings/How Taylor Tomlinson Conquered Comedy -- and Her Fear of Death.md",
     "2025-05-07.md",
     "Pasted image 20250506213145.png",
-    "index.md",
-    "Math Academy.md",
     "Galois Theory.md",
     "Clippings/The Hierarchy of Investor Needs.md",
     "category-folder/index.md",
@@ -298,7 +261,6 @@
     "How to Learn to See the World As It Is.md",
     "Cooking for Engineers.md",
     "Clippings/Why Instant Pot Users Are Obsessing Over This $35 Cart from Target.md",
-    "Clippings/Thread by @visakanv unlikeable characters in fiction framed in ways that are compelling.md",
     "Pasted image 20250209204408.png",
     "Pasted image 20250209204447.png",
     "Clippings",
