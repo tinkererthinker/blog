@@ -1,19 +1,21 @@
 ---
 title: What I'm Doing Now
 ---
+This blog is very much inspired by Leonardo Da Vinci's notebooks. Basically, it is a journal documenting my research. So, don't expect this to be some kind of curated experience. It is more like a magic junkyard or an artist's studio. Make yourself comfortable!
 ## Documenting my journey from high school math to cutting-edge ML/AI
 
 What most math looks like:
 
-![[Pasted image 20250420215109.png]]
+![[Pasted image 20250420215109.png|500]]
 
 We are all too familiar with it. It's the mathematical equivalent to how to draw a fucking owl. Trivial. Why can't you see it? The proof is obvious!
 
-I want to find the cure to math phobia. Can a normal pleb like me perform indescribable mental motions? Is math only for the elite? I'm testing [math academy's](https://www.mathacademy.com/) system to find out.
+I want to find the cure to math phobia. Can a normal pleb like me perform indescribable mental motions? Is math only for the elite? I'm testing [[Math Academy]] system to find out.
 
-## Creating a guide on learning how to cook
+## Guides
 
-[[Cooking for Engineers]] (noobish)
+- [[Cooking for Engineers]] (noobish)
+- [[How to Improvise And Compose Music]]
 
 ## Now reading
 

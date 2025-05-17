@@ -5,7 +5,8 @@
 - expert attention
 ## Book recommendations
 
-- Drawing on the Right Side of the Brain
+- Sketching from Square One... to Trafalgar Square
+	- Drawing on the Right Side of the Brain
 - [[The Inner Game of Tennis]]
 - Improvise for Real
 - Gendlin Focusing
