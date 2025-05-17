@@ -8,6 +8,7 @@
 - Drawing on the Right Side of the Brain
 - [[The Inner Game of Tennis]]
 - Improvise for Real
+- Gendlin Focusing
 
 ### A Master Class in Jazz Performance and Creativity with Pianist Kenny Werner
 
