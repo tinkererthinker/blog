@@ -33,3 +33,10 @@ keywords: language agnostic, domain specific languages
 
 TODO
 
+how to move past the advanced beginner stage
+
+The advanced beginner stage is the transition point between the beginner and intermediate stage.
+
+mini-projects
+- read [[Divine Proportions]] and implement some concepts in Julia
+

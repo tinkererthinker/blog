@@ -102,7 +102,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -255,8 +255,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "8a9cdb0e3d854f0d",
+  "active": "767b5d697a8dbef5",
   "lastOpenFiles": [
+    "How to Improvise And Compose Music.md",
     "index.md",
     "Clippings/Thread by @Conaw reduce filter map.md",
     "Clippings/Computational Public Space.md",
@@ -266,7 +267,6 @@
     "conflict-files-obsidian-git.md",
     "Pasted image 20250506213145.png",
     "Pasted image 20250504131446.png",
-    "How to Improvise And Compose Music.md",
     "Clippings/Thread by @MuuPuklip.md",
     "Clippings/Thread by @KayliMills.md",
     "Clippings/Leonardo da Vinci's notebooks · V&A.md",
