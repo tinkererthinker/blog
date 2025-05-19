@@ -12,7 +12,7 @@ I was blown away by this video.
 	1. It is very important to be able to extract these sounds on the spot when they are resonating the most with you. In my experience, making music depends a lot on the space I inhabit and the mood I am in. A lot of my frustration came from not being able to translate the sound I hear in my mind to the instrument.
 3. Practicing means to apply new concepts to your own improvisations and compositions. Push it to its limits and discover what is possible.
 
-### Rhythmic Discplacement
+### Rhythmic Displacement
 
 Let's observe how Barry Harris uses rhythmic displacement in Ladybird to add some swing.
 
