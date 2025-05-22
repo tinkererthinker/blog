@@ -51,12 +51,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Clippings/Thread by @KayliMills.md",
+                "file": "How to Learn to See the World As It Is.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Thread by @KayliMills"
+              "title": "How to Learn to See the World As It Is"
             }
           },
           {
@@ -120,7 +120,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "galois",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -161,7 +161,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Clippings/Thread by @KayliMills.md",
+                "file": "How to Learn to See the World As It Is.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -171,7 +171,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Thread by @KayliMills"
+              "title": "Backlinks for How to Learn to See the World As It Is"
             }
           },
           {
@@ -242,8 +242,11 @@
   },
   "active": "35b971380acc5d36",
   "lastOpenFiles": [
-    "Clippings/3.1 Getting Started.md",
+    "Clippings/Thread by @ejames_c how to seek feedback.md",
+    "Clippings/Fast Fourier Transforms.md",
     "Clippings/Thread by @KayliMills.md",
+    "Clippings/Thread by @phokarlsson alive.md",
+    "Clippings/3.1 Getting Started.md",
     "Clippings/Thread by @MuuPuklip.md",
     "How to Learn to See the World As It Is.md",
     "index.md",
@@ -269,9 +272,6 @@
     "Clippings/How Taylor Tomlinson Conquered Comedy -- and Her Fear of Death.md",
     "2025-05-07.md",
     "Pasted image 20250506213145.png",
-    "Galois Theory.md",
-    "Clippings/The Hierarchy of Investor Needs.md",
-    "category-folder/index.md",
     "Pasted image 20250504131446.png",
     "Pasted image 20250423112918.png",
     "Pasted image 20250420215109.png",
