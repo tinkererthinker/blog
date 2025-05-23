@@ -37,12 +37,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
+                "file": "Clippings/Automatically resolve Syncthing conflicts using a three-way merge.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "Automatically resolve Syncthing conflicts using a three-way merge"
+            }
+          },
+          {
+            "id": "3cc2204277a240b4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Automatically Merge Obsidian Conflicts.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Automatically Merge Obsidian Conflicts"
             }
           },
           {
@@ -60,31 +74,17 @@
             }
           },
           {
-            "id": "8a1c132f23129eaa",
+            "id": "f5a5f7af9b103d54",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Clippings/Thread by @ejames_c how to seek feedback.md",
+                "file": "conflict-files-obsidian-git.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Thread by @ejames_c how to seek feedback"
-            }
-          },
-          {
-            "id": "2d4b0cd68e292154",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Clippings/Leonardo da Vinci's notebooks · V&A.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Leonardo da Vinci's notebooks · V&A"
+              "title": "conflict-files-obsidian-git"
             }
           },
           {
@@ -159,8 +159,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 340.5,
-    "collapsed": true
+    "width": 340.5
   },
   "right": {
     "id": "ba1ec06a672fb227",
@@ -176,7 +175,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "How to Learn to See the World As It Is.md",
+                "file": "Automatically Merge Obsidian Conflicts.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -186,7 +185,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for How to Learn to See the World As It Is"
+              "title": "Backlinks for Automatically Merge Obsidian Conflicts"
             }
           },
           {
@@ -256,14 +255,17 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "35b971380acc5d36",
+  "active": "3cc2204277a240b4",
   "lastOpenFiles": [
-    "Clippings/Thread by @ejames_c how to seek feedback.md",
-    "Pasted image 20250522183645.png",
-    "How to Learn to See the World As It Is.md",
-    "Clippings/The Hierarchy of Investor Needs.md",
-    "index.md",
+    "Clippings/Automatically resolve Syncthing conflicts using a three-way merge.md",
     "conflict-files-obsidian-git.md",
+    "Automatically Merge Obsidian Conflicts.md",
+    "index.md",
+    "Clippings/The Hierarchy of Investor Needs.md",
+    "Clippings/Thread by @ejames_c how to seek feedback.md",
+    "Clippings/Leonardo da Vinci's notebooks · V&A.md",
+    "How to Learn to See the World As It Is.md",
+    "Pasted image 20250522183645.png",
     "My Experience With Math Academy.md",
     "Divine Proportions - Rational Trigonometry to Universal Geometry.md",
     "Clippings/Thread by @visakanv FAN pathless path.md",
@@ -278,7 +280,6 @@
     "Clippings/Thread by @phokarlsson alive.md",
     "Clippings/3.1 Getting Started.md",
     "Clippings/Thread by @MuuPuklip.md",
-    "Clippings/Leonardo da Vinci's notebooks · V&A.md",
     "How to Improvise And Compose Music.md",
     "Math Academy.md",
     "Understanding Plaque Buildup.md",
@@ -286,7 +287,6 @@
     "Pasted image 20250501211052.png",
     "Pasted image 20250501211041.png",
     "Jazz Piano.md",
-    "Clippings/Thread by @visakanv creating learning environments for kids.md",
     "Pasted image 20250506213145.png",
     "Pasted image 20250504131446.png",
     "Pasted image 20250423112918.png",

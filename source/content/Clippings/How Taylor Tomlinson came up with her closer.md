@@ -18,3 +18,5 @@ One thing that comes across is how much she cares about each word, trimming and 
 ![[Pasted image 20250501211041.png]]
 ![[Pasted image 20250501211058.png]]
 ![[Pasted image 20250501211052.png]]
+
+Tomlinson wants to make her closer a relatable story with characters you are invested in. So at her performance in Dallas the next month, she begins fleshing out its concrete details and making it more specific by adding the name of her friend, Courtney.
