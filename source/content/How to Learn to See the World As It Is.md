@@ -12,6 +12,11 @@
 - Gendlin Focusing
 - [[Divine Proportions - Rational Trigonometry to Universal Geometry]]
 
+[[Thread by @ejames_c how to seek feedback]]
+
+>  if you reframe the training task as about transforming the way students SEE, then you naturally lean towards training exercises that give messy feedback, just like reality.
+
+---
 ### A Master Class in Jazz Performance and Creativity with Pianist Kenny Werner
 
 ![](https://youtu.be/Un3p614XExc?si=SrjsgA1PJsEqDSgr)
