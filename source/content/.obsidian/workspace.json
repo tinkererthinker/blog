@@ -36,54 +36,12 @@
             }
           },
           {
-            "id": "8a9cdb0e3d854f0d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "How to Improvise And Compose Music.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "How to Improvise And Compose Music"
-            }
-          },
-          {
-            "id": "767b5d697a8dbef5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Clippings/How Taylor Tomlinson came up with her closer.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "How Taylor Tomlinson came up with her closer"
-            }
-          },
-          {
-            "id": "251ecab350de9a7b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Clippings/Solitude and Leadership.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Solitude and Leadership"
-            }
-          },
-          {
             "id": "5def85f701558ad1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "How to Learn to See the World As It Is.md",
+                "file": "Clippings/Thread by @__drewface.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -98,11 +56,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "How to Learn to See the World As It Is"
+              "title": "Thread by @__drewface"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -255,18 +213,23 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "21524d997914cddc",
+  "active": "5def85f701558ad1",
   "lastOpenFiles": [
+    "Clippings/Thread by @__drewface.md~",
+    "Clippings/The Magic of 3-Way Merge 1.md",
+    "Clippings/Thread by @__drewface.md",
+    "Clippings/The Magic of 3-Way Merge.md",
     "How to Learn to See the World As It Is.md",
+    "Clippings/Thread by @ejames_c how to seek feedback.md",
     "conflict-files-obsidian-git.md",
+    "Clippings/Solitude and Leadership.md",
+    "Clippings/How Taylor Tomlinson came up with her closer.md",
+    "How to Improvise And Compose Music.md",
     "Pasted image 20250522183645.png",
     "Clippings/Automatically resolve Syncthing conflicts using a three-way merge.md",
     "Automatically Merge Obsidian Conflicts.md",
     "index.md",
     "2025-02-18.md",
-    "How to Improvise And Compose Music.md",
-    "Clippings/How Taylor Tomlinson came up with her closer.md",
-    "Clippings/Thread by @ejames_c how to seek feedback.md",
     "Clippings/Fast Fourier Transforms.md",
     "My Experience With Math Academy.md",
     "Clippings/The Five Stages of Small-Business Growth.md",
@@ -281,10 +244,6 @@
     "Clippings/Thread by @MuuPuklip.md",
     "Clippings/Thread by @KayliMills.md",
     "Clippings/Leonardo da Vinci's notebooks · V&A.md",
-    "Clippings/Thread by @RichDecibels 2.md",
-    "Clippings/Thread by @QiaochuYuan Gendlin focusing.md",
-    "Clippings/Thread by @QiaochuYuan matrix of linear transformation.md",
-    "Clippings/Thread by @QiaochuYuan feeling math.md",
     "Clippings/Thread by @QiaochuYuan feeling math.md~",
     "Clippings/Thread by @ShriramKMurthi programming language.md~",
     "Pasted image 20250501211058.png",

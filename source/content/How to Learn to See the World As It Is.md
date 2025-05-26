@@ -7,12 +7,14 @@
 
 - Sketching from Square One... to Trafalgar Square
 	- Drawing on the Right Side of the Brain
-- [[The Inner Game of Tennis]]
+- [[The Inner Game of Tennis]]7
 - Improvise for Real
 - Gendlin Focusing
 - [[Divine Proportions - Rational Trigonometry to Universal Geometry]]
 
 [[Thread by @ejames_c how to seek feedback]]
+
+> The irony is that unclear feedback can sometimes be helpful, EVEN IF it makes skill acquisition slower. Why? Because it trains the student to do something more valuable: ==sensemaking to figure out which bits of their experience actually matter.==
 
 >  if you reframe the training task as about transforming the way students SEE, then you naturally lean towards training exercises that give messy feedback, just like reality.
 
