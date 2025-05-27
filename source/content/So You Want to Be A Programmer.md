@@ -1,4 +1,6 @@
-My hard drive is full so I wanted to analyse in which directories I have stored the biggest files.
+I'm not a fan of most programming courses, so I decided to write my own guide.
+
+My hard drive is full so, I want to analyse which directories contain the biggest files.
 
 I remember from [[Small, Sharp Software Tools]] that there are command line tools you can use to do exactly that.
 
