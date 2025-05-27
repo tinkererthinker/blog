@@ -89,6 +89,7 @@ Can you?
 > 
 > Perhaps we're in the greatest Golden Age in human history, but it just doesn't feel that way because it's not restricted to a single culture, nation, or city-state, like golden ages of the past
 
+---
 Sports may be a bad model for human progress and flourishing, as a finite/zero-sum/well-structured game category.
 
 http://webseitz.fluxent.com/wiki/GameTheory
