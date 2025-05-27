@@ -2,6 +2,10 @@
 
 Obsession and singing. You need to pick a piece of music you would enjoy listening to hundreds of times because this is what you need to do in order to hear out all the nuances. There are no shortcuts.
 
+> People tend to approximate the product rather than attacking it in a realistic, true way at any elementary level — regardless of how elementary — but it must be entirely true and entirely real and entirely accurate. They would rather approximate the entire problem than to take a small part of it and be real and true about it. To approximate the whole thing in a vague way gives you a feeling that you’ve more or less touched the thing, but in this way you just lead yourself toward confusion and ultimately you’re going to get so confused that you’ll never find your way out.
+> 
+> It is true of any subject that the person that succeeds in anything has the realistic viewpoint at the beginning and knows that the problem is large and that he has to take it a step at a time and that he has to enjoy the step-by-step learning procedure. They’re trying to do a thing in a way that is so general that they can’t possibly build on that. If they build on that, they’re building on top of confusion and vagueness and they can’t possibly progress. If you try to approximate something that is very advanced and don’t know what you’re doing, you can’t advance. ~ [[Bill Evans]]
+
 Does relative pitch work for complicated chords?
 
 I was blown away by this video.

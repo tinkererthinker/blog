@@ -8,30 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "2d8837e6263008e3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Clippings/The Hierarchy of Investor Needs.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "The Hierarchy of Investor Needs"
-            }
-          },
-          {
             "id": "e6dda9780e8b303e",
             "type": "leaf",
             "state": {
@@ -87,8 +63,7 @@
               "title": "Thread by @deepfates"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -243,14 +218,17 @@
   },
   "active": "e6dda9780e8b303e",
   "lastOpenFiles": [
-    "Clippings/Automatically resolve Syncthing conflicts using a three-way merge.md",
-    "Clippings/Markets Change. So Should You..md",
-    "Clippings/How to figure out piano chord progressions while playing?.md",
+    "Bill Evans.md",
     "How to Improvise And Compose Music.md",
-    "Clippings/The Hierarchy of Investor Needs.md",
     "index.md",
     "So You Want to Be A Programmer.md",
     "A Data-Centric Introduction to Computer Science.md",
+    "Clippings/Thread by @QiaochuYuan.md",
+    "How to Learn to See the World As It Is.md",
+    "Clippings/The Hierarchy of Investor Needs.md",
+    "Clippings/Automatically resolve Syncthing conflicts using a three-way merge.md",
+    "Clippings/Markets Change. So Should You..md",
+    "Clippings/How to figure out piano chord progressions while playing?.md",
     "Pasted image 20250527134432.png",
     "conflict-files-obsidian-git.md",
     "Clippings/Thread by @__drewface.md",
@@ -259,11 +237,9 @@
     "Pasted image 20250527131351.png",
     "Small, Sharp Software Tools.md",
     "Pasted image 20250527130137.png",
-    "Clippings/Thread by @QiaochuYuan.md",
     "Automatically Merge Obsidian Conflicts.md",
     "Clippings/Thread by @ejames_c how to seek feedback.md",
     "Clippings/Leonardo da Vinci's notebooks · V&A.md",
-    "How to Learn to See the World As It Is.md",
     "Pasted image 20250522183645.png",
     "My Experience With Math Academy.md",
     "Divine Proportions - Rational Trigonometry to Universal Geometry.md",
@@ -272,7 +248,6 @@
     "Clippings/Thread by @QiaochuYuan matrix of linear transformation.md",
     "Clippings/Thread by @QiaochuYuan feeling math.md",
     "Clippings/Thread by @QiaochuYuan Gendlin focusing.md",
-    "Clippings/Thread by @Conaw reduce filter map.md",
     "Pasted image 20250501211058.png",
     "Pasted image 20250501211052.png",
     "Pasted image 20250501211041.png",

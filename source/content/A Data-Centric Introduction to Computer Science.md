@@ -1,3 +1,5 @@
+[5.1 From Tables to Lists](https://dcic-world.org/2025-02-09/tables-to-lists.html#%28part._.Extracting_a_.Column_from_a_.Table%29) 
+
 ![[Pasted image 20250527134432.png|100]]
 
 > This focuses our attention on the numeric ticket sales, but we’re still stuck with a column in a table, and none of the other tables functions let us do the kinds of computations we might want over these numbers. Ideally, we want the collection of numbers on their own, without being wrapped up in the extra layer of table cells.
