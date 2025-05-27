@@ -17,6 +17,7 @@ I want to find the cure to math phobia. Can a normal pleb like me perform indesc
 - [[Cooking for Engineers]] (noobish)
 - [[How to Improvise And Compose Music]]
 - [[Automatically Merge Obsidian Conflicts]]
+- [[So You Want to Be A Programmer]]
 
 ## Now reading
 

@@ -29,19 +29,9 @@ He's a great example of a powerful investing truth: You can be brilliant on one 
 
 There is a hierarchy of investor needs, in other words. Some investing skills have to be mastered before any other skills matter at all.
 
-## Where to invest $1,000 right now
-
-**When our analyst team has a stock tip, it can pay to listen. After all, *Stock Advisor’s* total average return is  **792 %** — a market-crushing outperformance compared to **153%** for the S&P 500.**
-
-They just revealed what they believe are the **[10 best stocks](https://api.fool.com/infotron/infotrack/click?apikey=35527423-a535-4519-a07f-20014582e03e&impression=9bd0d0f5-9335-4972-8140-2c012d2fd821&url=https%3A%2F%2Fwww.fool.com%2Fmms%2Fmark%2Fe-sa-bbn-bn%3Faid%3D8867%26source%3Disaediica0000025%26ftm_cam%3Dsa-bbn-evergreen%26ftm_veh%3Din_line_article_pitch%26ftm_pit%3D17171)** for investors to buy right now…
-
-[Learn more ›](https://api.fool.com/infotron/infotrack/click?apikey=35527423-a535-4519-a07f-20014582e03e&impression=9bd0d0f5-9335-4972-8140-2c012d2fd821&url=https%3A%2F%2Fwww.fool.com%2Fmms%2Fmark%2Fe-sa-bbn-bn%3Faid%3D8867%26source%3Disaediica0000025%26ftm_cam%3Dsa-bbn-evergreen%26ftm_veh%3Din_line_article_pitch%26ftm_pit%3D17171)  
-
-*\*Stock Advisor returns as of April 14, 2025*
-
 Here's a pyramid I made to show what I mean. The most important investing topic is at the bottom. Each topic has to be mastered before the one above it matters:
 
-![](https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F172122%2Fhierarchy.jpg&op=resize&w=700)
+![|400](https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F172122%2Fhierarchy.jpg&op=resize&w=700)
 
 Every one of these topics is incredibly important. None should be belittled.
 
@@ -59,31 +49,3 @@ For more:
 - [The world's smartest investors have failed](https://www.fool.com/investing/general/2014/01/27/the-worlds-smartest-investors-have-failed.aspx)
 - [What's wrong with finance](https://www.fool.com/investing/general/2015/03/18/strange.aspx)
 - [Markets change. So should you](https://www.fool.com/investing/general/2015/03/31/markets-change-so-should-you.aspx).
-
-## Buy alert: Double down on these stocks today
-
-The *Motley Fool Stock Advisor* service has  **more than quadrupled** the performance of the S&P 500 since its inception in 2002\*, and the analyst team knows [**when to double down**](https://api.fool.com/infotron/infotrack/click?apikey=35527423-a535-4519-a07f-20014582e03e&impression=3603af3d-5a78-48b6-9339-7dd1798e35e5&url=https%3A%2F%2Fwww.fool.com%2Fmms%2Fmark%2Fa-sa-dd-3%3Faid%3D9431%26source%3Disaeditxt0001042%26ftm_cam%3Dsa-bbn-evergreen%26ftm_veh%3Darticle_pitch%26ftm_pit%3D17190). They have re-recommended a handful of stocks in the past, and some of those stocks have produced tremendous returns.
-
-- **Netflix**: if you invested $1,000 when we doubled down in 2004, you’d have **$524,747**!\*
-- **Nvidia**: if you invested $1,000 when we doubled down in 2009, you’d have **$263,189**!\*
-- **Apple**: if you invested $1,000 when we doubled down in 2008, you’d have **$37,346**!\*
-
-Opportunity is knocking again. Want to open the door?
-
-[Continue ›](https://api.fool.com/infotron/infotrack/click?apikey=35527423-a535-4519-a07f-20014582e03e&impression=3603af3d-5a78-48b6-9339-7dd1798e35e5&url=https%3A%2F%2Fwww.fool.com%2Fmms%2Fmark%2Fa-sa-dd-3%3Faid%3D9431%26source%3Disaeditxt0001042%26ftm_cam%3Dsa-bbn-evergreen%26ftm_veh%3Darticle_pitch%26ftm_pit%3D17190)
-
-*\*Stock Advisor returns as of 04/19/2025*
-
-## Motley Fool issues A.I. buy alert
-
-This tech could reach $80 trillion. Imagine a technology worth over **[30 Nvidias](https://api.fool.com/infotron/infotrack/click?apikey=35527423-a535-4519-a07f-20014582e03e&impression=74c71d05-965b-432b-84cc-f4c59f98e022&url=https%3A%2F%2Fwww.fool.com%2Fmms%2Fmark%2Fe-sa-foolcom-ai-boom-x-nvidias%3Faid%3D10891%26source%3Disaediprm0000119%26ftm_cam%3Dsa-bbn-evergreen%26ftm_veh%3Dpromobox%26ftm_pit%3D16280)**.
-
-What in the world could be worth 30 Nvidias? The answer is a radical tech breakthrough that our experts think is transforming every walk of life. And this giant leap forward has many on Wall Street very excited.
-
-[Learn more ›](https://api.fool.com/infotron/infotrack/click?apikey=35527423-a535-4519-a07f-20014582e03e&impression=74c71d05-965b-432b-84cc-f4c59f98e022&url=https%3A%2F%2Fwww.fool.com%2Fmms%2Fmark%2Fe-sa-foolcom-ai-boom-x-nvidias%3Faid%3D10891%26source%3Disaediprm0000119%26ftm_cam%3Dsa-bbn-evergreen%26ftm_veh%3Dpromobox%26ftm_pit%3D16280)
-
-## Premium Investing Services
-
-Invest better with The Motley Fool. Get stock recommendations, portfolio guidance, and more from The Motley Fool's premium services.
-
-[View Premium Services](https://www.fool.com/services/?ftm_cam=footer-services-sitewide-prospects)
