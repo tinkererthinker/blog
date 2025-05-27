@@ -32,6 +32,20 @@
             }
           },
           {
+            "id": "e6dda9780e8b303e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "So You Want to Be A Programmer.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "So You Want to Be A Programmer"
+            }
+          },
+          {
             "id": "97ffc2330f2a6549",
             "type": "leaf",
             "state": {
@@ -51,12 +65,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Automatically Merge Obsidian Conflicts.md",
+                "file": "Clippings/Thread by @QiaochuYuan.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Automatically Merge Obsidian Conflicts"
+              "title": "Thread by @QiaochuYuan"
             }
           },
           {
@@ -102,7 +116,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -255,13 +269,19 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "3cc2204277a240b4",
+  "active": "e6dda9780e8b303e",
   "lastOpenFiles": [
-    "Clippings/Automatically resolve Syncthing conflicts using a three-way merge.md",
-    "conflict-files-obsidian-git.md",
-    "Automatically Merge Obsidian Conflicts.md",
+    "A Data-Centric Introduction to Computer Science.md",
+    "So You Want to Be A Programmer.md",
+    "Pasted image 20250527131351.png",
+    "Small, Sharp Software Tools.md",
+    "Pasted image 20250527130137.png",
     "index.md",
     "Clippings/The Hierarchy of Investor Needs.md",
+    "conflict-files-obsidian-git.md",
+    "Clippings/Thread by @QiaochuYuan.md",
+    "Automatically Merge Obsidian Conflicts.md",
+    "Clippings/Automatically resolve Syncthing conflicts using a three-way merge.md",
     "Clippings/Thread by @ejames_c how to seek feedback.md",
     "Clippings/Leonardo da Vinci's notebooks · V&A.md",
     "How to Learn to See the World As It Is.md",
@@ -280,19 +300,13 @@
     "Clippings/Thread by @phokarlsson alive.md",
     "Clippings/3.1 Getting Started.md",
     "Clippings/Thread by @MuuPuklip.md",
-    "How to Improvise And Compose Music.md",
-    "Math Academy.md",
-    "Understanding Plaque Buildup.md",
     "Pasted image 20250501211058.png",
     "Pasted image 20250501211052.png",
     "Pasted image 20250501211041.png",
-    "Jazz Piano.md",
     "Pasted image 20250506213145.png",
     "Pasted image 20250504131446.png",
     "Pasted image 20250423112918.png",
     "Pasted image 20250420215109.png",
-    "Pasted image 20250209204408.png",
-    "Pasted image 20250209204447.png",
     "Clippings",
     "category-folder"
   ]

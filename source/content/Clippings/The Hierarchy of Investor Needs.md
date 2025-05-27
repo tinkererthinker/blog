@@ -41,7 +41,7 @@ They just revealed what they believe are the **[10 best stocks](https://api.fool
 
 Here's a pyramid I made to show what I mean. The most important investing topic is at the bottom. Each topic has to be mastered before the one above it matters:
 
-![](https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F172122%2Fhierarchy.jpg&op=resize&w=700)
+![|400](https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F172122%2Fhierarchy.jpg&op=resize&w=700)
 
 Every one of these topics is incredibly important. None should be belittled.
 
