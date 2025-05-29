@@ -15,3 +15,5 @@ In order to do that, I need to get good at cooking to be able to make affordable
 - airfryer
 
 still work in progress
+
+Tomatoes taste better if you don't store them in the fridge. I washed them and put them in some tupper ware.
