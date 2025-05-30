@@ -40,3 +40,6 @@ The advanced beginner stage is the transition point between the beginner and int
 mini-projects
 - read [[Divine Proportions]] and implement some concepts in Julia
 
+Euler's formula
+- [[What is the Riemann Hypothesis REALLY about?]]
+

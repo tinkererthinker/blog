@@ -41,7 +41,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cooking for Engineers.md",
+                "file": "A Data-Centric Introduction to Computer Science.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -56,7 +56,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Cooking for Engineers"
+              "title": "A Data-Centric Introduction to Computer Science"
             }
           },
           {
@@ -134,7 +134,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "adult",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -155,8 +155,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -258,12 +257,15 @@
   },
   "active": "5def85f701558ad1",
   "lastOpenFiles": [
+    "So You Want to Be A Programmer.md",
+    "index.md",
+    "My Experience With Math Academy.md",
+    "What is the Riemann Hypothesis REALLY about?.md",
+    "Cooking for Engineers.md",
     "conflict-files-obsidian-git.md",
     "Clippings/Flappy Bird creator says game was inspired by bouncing a ping pong ball on a paddle.md",
-    "index.md",
     "Clippings/Thread by @visakanv on invisible contracts.md",
     "A Data-Centric Introduction to Computer Science.md",
-    "So You Want to Be A Programmer.md",
     "Clippings/Methods of Proof.md",
     "Clippings/Thread by @ejames_c how to seek feedback.md",
     "Clippings/Thread by @justinskycak 2.md",
@@ -286,9 +288,6 @@
     "How to Improvise And Compose Music.md",
     "Pasted image 20250522183645.png",
     "Clippings/Automatically resolve Syncthing conflicts using a three-way merge.md",
-    "Automatically Merge Obsidian Conflicts.md",
-    "2025-02-18.md",
-    "Clippings/Fast Fourier Transforms.md",
     "Pasted image 20250506213145.png",
     "Pasted image 20250504131446.png",
     "Clippings/Thread by @QiaochuYuan feeling math.md~",
