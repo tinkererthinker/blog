@@ -36,3 +36,7 @@ To understand the essentials, focus on:
 
 We can also skim through tinygrad's [quickstart guide](https://docs.tinygrad.org/quickstart/).
 
+[[Introduction to the internals]]
+
+
+
