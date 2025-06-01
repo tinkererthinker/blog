@@ -77,7 +77,8 @@
               "title": "Thread by @deepfates"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -151,7 +152,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Power Plant.md",
+                "file": "Clippings/Thread by @worrydream.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -161,7 +162,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Power Plant"
+              "title": "Backlinks for Thread by @worrydream"
             }
           },
           {
@@ -231,14 +232,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e6dda9780e8b303e",
+  "active": "d5088d2c31a2538f",
   "lastOpenFiles": [
+    "Power Plant.md",
     "Clippings/Thread by @worrydream.md",
     "Clippings/Thread by @levelsio.md",
     "How to Learn to See the World As It Is.md",
     "Clippings/Computational Public Space.md",
     "index.md",
-    "Power Plant.md",
     "Clippings/What can a technologist do about climate change? A personal view..md",
     "Datasette.md",
     "2025-02-14.md",

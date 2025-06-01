@@ -1,3 +1,4 @@
+The power plant supplies electricity to the town.
 
 There was a [power outage in Spain and Portugal](https://en.wikipedia.org/wiki/2025_Iberian_Peninsula_blackout):
 
