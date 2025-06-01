@@ -13,3 +13,5 @@ Another example would be the document distance problem where we represent two do
 - Which discount code has been used most often?
 - Is there a relationship between the number of tickets purchased in one order and the time of purchase?
 - How many orders have been made for each delivery option?
+
+In data analysis, we often work with large [[Datasette|datasets]], some of which were collected by someone else. Datasets don’t necessarily come in a form that we can work with. We might need the raw data pulled apart or condensed to coarser granularity. Some data might be missing or entered incorrectly. On top of that, we have to plan for long-term maintenance of our datasets or analysis programs. Finally, we typically want to use visualizations to either communicate our data or to check for issues with our data.
