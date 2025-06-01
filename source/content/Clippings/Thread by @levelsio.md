@@ -16,9 +16,7 @@ Europe's governments made energy expensive on purpose to stop you from using it!
 Europe is anti-energy right now and taxes it heavily causing prices to be more than double than in the US:
 
 \- US: $0.16 per kWh
-
 \- EU avg: $0.31 per kWh (2x)
-
 \- Germany: $0.44 per kWh (2.75x)
 
 Energy
@@ -46,12 +44,12 @@ It's not as much about EU making
 **@levelsio** @levelsio [2024-08-06](https://x.com/levelsio/status/1820929629726581240)
 
 This is completely false
-
 Germany had LOADS of nuclear power plants
-
 Most of them were shutdown
 
-![Image](https://pbs.twimg.com/media/GUU92NnXYAACjvi?format=jpg&name=large) ![Image](https://pbs.twimg.com/media/GUU92NqXkAA655Z?format=jpg&name=large)
+https://www.cleanenergywire.org/news/qa-why-germany-phasing-out-nuclear-power-and-why-now
+
+> After years of protests against nuclear power station projects in several locations, and fuelled by the accident at Three Mile Island (U.S.) in 1979 and the Chernobyl catastrophe in 1986, the anti-nuclear movement resulted in no new commercial reactors being built in Germany after 1989.
 
 ---
 
@@ -80,5 +78,3 @@ No @SimonTheNoob is right! The 3 remaining NPPs were shut down last year and pow
 They were „blocking“ the grid from renwables.
 
 Now prices are at 0.257€/kwh (~0.28$) compared to >0.35€in Q1/23
-
-![Image](https://pbs.twimg.com/media/GUXwqEmWQAAvMDc?format=jpg&name=large) ![Image](https://pbs.twimg.com/media/GUXwqEnXsAAwrWv?format=jpg&name=large) ![Image](https://pbs.twimg.com/media/GUXwqEmX0AAq-vD?format=jpg&name=large)
