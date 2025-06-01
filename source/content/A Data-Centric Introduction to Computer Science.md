@@ -8,3 +8,8 @@
 
 Another example would be the document distance problem where we represent two documents as two lists of words. Then, we map two lists of strings to two lists of vectors which allows us to work with the dot product.
 
+## 4.2 Processing Tables
+
+- Which discount code has been used most often?
+- Is there a relationship between the number of tickets purchased in one order and the time of purchase?
+- How many orders have been made for each delivery option?
