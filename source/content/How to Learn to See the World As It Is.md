@@ -27,6 +27,7 @@
 - attachment makes it difficult to let go
 - hoping to play better < love and listen to what you are playing
 
-### Why Recipes are holding you back from learning how to cook
+---
+## [[Computational Public Space]]
 
-![](https://youtu.be/srMEoe_5y6g)
+Why are we here? Why do we inhabit a city? Can there be activities that are actually about making us deeper people, about learning and understanding and be able to contribute back to civic life?

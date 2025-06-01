@@ -5,4 +5,4 @@ There was a [power outage in Spain and Portugal](https://en.wikipedia.org/wiki/2
 
 BLACKOUT (tomorrow will be too late) - Elsberg
 
-What can a technologist do about climate change?
+[What can a technologist do about climate change?](https://worrydream.com/ClimateChange/)
