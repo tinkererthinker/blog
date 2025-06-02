@@ -11,3 +11,5 @@ This looks like a table. Where have I analysed tables before? [[A Data-Centric I
 ![[Pasted image 20250527131351.png]]
 
 So, how can we improve the list's readability?
+
+teaching computation as a social practice
