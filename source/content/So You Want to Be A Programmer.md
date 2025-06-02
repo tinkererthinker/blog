@@ -13,3 +13,13 @@ This looks like a table. Where have I analysed tables before? [[A Data-Centric I
 So, how can we improve the list's readability?
 
 teaching computation as a social practice
+
+## Bash Scripting
+
+Knowing UNIX commands eliminates having to reinvent the wheel.
+
+In order to perform a simple file sort, you could write:
+- 35 lines of Python
+- 19 lines of Perl 
+- 73 lines of Java
+- 1 line of UNIX commands

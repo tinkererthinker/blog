@@ -31,4 +31,4 @@ Unfortunately maximizing impact usually means plugging away at the same problem 
 
 **Kenneth Stanley** @kenneth0stanley [2023-10-04](https://x.com/kenneth0stanley/status/1709362745458770002)
 
-But explicitly trying to maximize impact will not lead to the highest impact. That’s the objective paradox. The highest impact comes from not worrying about impact and doing something interesting to you.
+But explicitly trying to maximize impact will not lead to the highest impact. That’s [[The Objective Paradox]]. The highest impact comes from not worrying about impact and doing something interesting to you.
