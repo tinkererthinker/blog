@@ -30,3 +30,10 @@ Let's observe how Barry Harris uses rhythmic displacement in Ladybird to add som
 ![](https://youtu.be/5D2E06HWR9I)
 
 ![](https://youtu.be/Suv9m83GiTA)
+
+## Jazz Standards
+
+- My Foolish Heart
+- Peace Piece
+- The Nearness of You
+	- https://www.pianogroove.com/jazz-piano-lessons/the-nearness-of-you-tutorial/
