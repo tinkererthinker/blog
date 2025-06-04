@@ -23,13 +23,17 @@ While most programmers have never programmed in Haskell before, many have progra
 
 ## Bash Scripting
 
-Knowing UNIX commands eliminates having to reinvent the wheel.
+**Knowing UNIX commands eliminates having to reinvent the wheel.**
 
 In order to perform a simple file sort, you could write:
 - 35 lines of Python
 - 19 lines of Perl 
 - 73 lines of Java
 - 1 line of UNIX commands
+
+links
+- https://web.stanford.edu/class/cs273a/presentations.aut11/UnixTextProcessingPrimer.pdf
+	- https://tldp.org/LDP/abs/html/textproc.html
 
 where to save bash scripts
 
