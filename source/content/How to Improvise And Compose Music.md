@@ -40,3 +40,9 @@ Let's observe how Barry Harris uses rhythmic displacement in Ladybird to add som
 - Peace Piece
 - The Nearness of You
 	- https://www.pianogroove.com/jazz-piano-lessons/the-nearness-of-you-tutorial/
+
+---
+
+[What songs should I play when testing a guitar on a store? : r/Guitar](https://www.reddit.com/r/Guitar/comments/1bf6ofq/what_songs_should_i_play_when_testing_a_guitar_on/) 
+
+> Great players don’t play much. They play simple stuff and listen. They stick to simple, familiar chords and passages to hear and feel the instrument and to give a base line for what the guitar is and does.

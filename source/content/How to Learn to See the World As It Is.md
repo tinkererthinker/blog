@@ -31,3 +31,11 @@
 ## [[Computational Public Space]]
 
 Why are we here? Why do we inhabit a city? Can there be activities that are actually about making us deeper people, about learning and understanding and be able to contribute back to civic life?
+
+---
+
+## Your Money or Your Life
+
+> ==The primary tool for developing this internal yardstick is awareness.== The affluence that surrounds us has been called the American Dream, and with good reason: we’ve been asleep. We wake up by questioning the dream. 
+
+> Asking yourself, month in, month out, whether you actually got fulfillment in proportion to life energy spent in each subcategory ==awakens that natural sense of knowing __when enough is enough__.==
