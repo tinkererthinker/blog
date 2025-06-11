@@ -15,7 +15,7 @@
 
 [[Thread by @ejames_c how to seek feedback]]
 
-> The irony is that unclear feedback can sometimes be helpful, EVEN IF it makes skill acquisition slower. Why? Because it trains the student to do something more valuable: ==sensemaking to figure out which bits of their experience actually matter.==
+> The irony is that unclear feedback can sometimes be helpful, EVEN IF it makes skill acquisition slower. Why? Because it trains the student to do something more valuable: ==sense-making to figure out which bits of their experience actually matter.==
 
 >  if you reframe the training task as about transforming the way students SEE, then you naturally lean towards training exercises that give messy feedback, just like reality.
 
