@@ -23,6 +23,7 @@
 
 How does the brain remember what is important?
 - access to unstructured learning environments in which children which bits of their experience are essential by listening to their feelings
+- abstract thinking is not possible without learning to feel your feelings
 
 ---
 ### A Master Class in Jazz Performance and Creativity with Pianist Kenny Werner
