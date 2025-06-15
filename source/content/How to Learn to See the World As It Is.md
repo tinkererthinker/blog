@@ -20,6 +20,11 @@
 >  if you reframe the training task as about transforming the way students SEE, then you naturally lean towards training exercises that give messy feedback, just like reality.
 
 ---
+
+How does the brain remember what is important?
+- access to unstructured learning environments in which children which bits of their experience are essential by listening to their feelings
+
+---
 ### A Master Class in Jazz Performance and Creativity with Pianist Kenny Werner
 
 ![](https://youtu.be/Un3p614XExc?si=SrjsgA1PJsEqDSgr)
