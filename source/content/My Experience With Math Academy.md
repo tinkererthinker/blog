@@ -43,3 +43,9 @@ mini-projects
 Euler's formula
 - [[What is the Riemann Hypothesis REALLY about?]]
 
+---
+
+Update 10.06.2025
+
+I completed 95% of MF2 and 28% of MF3.
+

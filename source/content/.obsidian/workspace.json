@@ -21,8 +21,23 @@
               "icon": "lucide-file",
               "title": "Thread by @betanalpha derivative as higher-order function"
             }
+          },
+          {
+            "id": "c15888e191d90e4c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "conflict-files-obsidian-git"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -175,11 +190,16 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "7cb5e16e0d01e050",
+  "active": "c15888e191d90e4c",
   "lastOpenFiles": [
-    "Clippings/Install help for Ubuntu 20.04 on a Lenovo Thinkcentre M81.md",
     "Clippings/Thread by @betanalpha derivative as higher-order function.md",
     "conflict-files-obsidian-git.md",
+    "Clippings/Why Doctors Hate Their Computers  The New Yorker.md",
+    "Clippings/Thread by @visakanv super-acquaintance.md",
+    "Clippings/Thread by @ninja_maths.md",
+    "Clippings/Thread by @DefenderOfBasic 4.md",
+    "Clippings/Thread by @DefenderOfBasic 3.md",
+    "Clippings/Install help for Ubuntu 20.04 on a Lenovo Thinkcentre M81.md",
     "Clippings/Thread by @ShriramKMurthi oh shit, git!?!.md",
     "Clippings/Tour Guide.md",
     "Clippings/Thread by @jackerhack datasette.md",
@@ -199,11 +219,6 @@
     "Power Plant.md",
     "Datasette.md",
     "Clippings/Thread by @worrydream.md",
-    "Clippings/Thread by @levelsio.md",
-    "Clippings/Introduction to the internals.md",
-    "A Data-Centric Introduction to Computer Science.md",
-    "index.md",
-    "My Experience With Math Academy.md",
     "Pasted image 20250527134432.png",
     "Pasted image 20250527131351.png",
     "Pasted image 20250527130137.png",
