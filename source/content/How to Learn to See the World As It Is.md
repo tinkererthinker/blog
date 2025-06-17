@@ -6,12 +6,19 @@
 - trusting yourself
 ## Book recommendations
 
+<<<<<<< HEAD
 - [[Sketching from Square One... to Trafalgar Square]]
 	- [[Drawing on the Right Side of the Brain]]
 - [[The Inner Game of Tennis]]7
+=======
+- Sketching from Square One... to Trafalgar Square
+	- Drawing on the Right Side of the Brain
+- [[The Inner Game of Tennis]]
+>>>>>>> origin/main
 - Improvise for Real
 - Gendlin Focusing
 - [[Divine Proportions - Rational Trigonometry to Universal Geometry]]
+- [[This Is Water]]
 
 [[Thread by @ejames_c how to seek feedback]]
 
