@@ -6,8 +6,8 @@
 - trusting yourself
 ## Book recommendations
 
-- Sketching from Square One... to Trafalgar Square
-	- Drawing on the Right Side of the Brain
+- [[Sketching from Square One... to Trafalgar Square]]
+	- [[Drawing on the Right Side of the Brain]]
 - [[The Inner Game of Tennis]]7
 - Improvise for Real
 - Gendlin Focusing
@@ -23,7 +23,8 @@
 
 How does the brain remember what is important?
 - access to unstructured learning environments in which children which bits of their experience are essential by listening to their feelings
-- abstract thinking is not possible without learning to feel your feelings
+- abstract thinking is not possible without learning to feel your feelings, sensing and feeling emotion
+	- [[Sketching from Square One... to Trafalgar Square]]
 
 ---
 ### A Master Class in Jazz Performance and Creativity with Pianist Kenny Werner
