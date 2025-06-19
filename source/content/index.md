@@ -20,9 +20,11 @@ I want to find the cure to math phobia. Can a normal pleb like me perform indesc
 - [[So You Want to Be A Programmer]]
 - [[tinygrad onboarding guide]]
 
-## Now reading
+## Nerdsnipes
 
 These are the books I would recommend in order to [[How to Learn to See the World As It Is|learn to see the world as it is]].
+
+- [[The Math Behind the Hario V60 Coffee Dripper]]
 ### Connect with Me
 - Join me on [twitter](https://x.com/trangquest).
 - email: trang@trangla.de
