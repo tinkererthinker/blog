@@ -9,6 +9,7 @@ Trigonometry is a shortcut.
 - [[The Art of Problem Solving]]
 	- Right triangles are of paramount importance in geometry. Thus, mathematicians have developed a **shorthand for writing the ratios of the sides of right triangles.** Instead of writing "the ratio of the leg adjacent to an $18^{\circ}$ angle to the hypotenuse of the triangle," we write "cos $18^{\circ}$ ". Because expressions of this type frequently come up in physics, engineering, and many other branches of science, you can see why such a shorthand was developed. We'll start off with a few definitions.
 	- What use is trigonometry? In a word, it's a shortcut. Using the trigonometric functions and our knowledge about special right triangles, we can quickly find various side lengths and angle measures. Examples are included among the problems below. Trigonometry also gives us yet another method to prove that two angles are equal. If we know that two acute angles have the same value for some trigonometric function (e.g. $\sin \alpha=\sin \beta$ ), then we know the angles are equal ( $\alpha=\beta$ ). (Can you prove this?)
+- Can I solve some of the problems in [[Mathematics via Problems]] with [[Rational Trigonometry]]?
 
 ## Practice possibilities
 
