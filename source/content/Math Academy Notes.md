@@ -1,16 +1,14 @@
-## Thoughts after 2100 XP (~ 35 hours of work)
+## Some context
 
-![[Pasted image 20250506213145.png|200]]
+- adding some context to MA courses
+- The biggest issue with MA is the lack of context imho. What's the point? Why should I care?
 
-What have I learned? What intrigued me about this process?
+[[Book of Proof]]
 
-I took the diagnostics, still the exercises felt too easy and not challenging enough.
-
-Now, I completed 78% of math foundations II. Maybe it's time to switch to MF3.
-
-I felt like something was missing.
-
-[ ] remix lessons and make them your own
+Trigonometry is a shortcut.
+- [[The Art of Problem Solving]]
+	- Right triangles are of paramount importance in geometry. Thus, mathematicians have developed a **shorthand for writing the ratios of the sides of right triangles.** Instead of writing "the ratio of the leg adjacent to an $18^{\circ}$ angle to the hypotenuse of the triangle," we write "cos $18^{\circ}$ ". Because expressions of this type frequently come up in physics, engineering, and many other branches of science, you can see why such a shorthand was developed. We'll start off with a few definitions.
+	- What use is trigonometry? In a word, it's a shortcut. Using the trigonometric functions and our knowledge about special right triangles, we can quickly find various side lengths and angle measures. Examples are included among the problems below. Trigonometry also gives us yet another method to prove that two angles are equal. If we know that two acute angles have the same value for some trigonometric function (e.g. $\sin \alpha=\sin \beta$ ), then we know the angles are equal ( $\alpha=\beta$ ). (Can you prove this?)
 
 ## Practice possibilities
 
@@ -33,7 +31,7 @@ keywords: language agnostic, domain specific languages
 
 TODO
 
-how to move past the advanced beginner stage
+How to move past the advanced beginner stage?
 
 The advanced beginner stage is the transition point between the beginner and intermediate stage.
 
@@ -43,19 +41,21 @@ mini-projects
 Euler's formula
 - [[What is the Riemann Hypothesis REALLY about?]]
 
-## Some context
-
-- adding some context to MA courses
-- The biggest issue with MA is the lack of context imho. What's the point? Why should I care?
-
-[[Book of Proof]]
-
-Trigonometry
-- [[The Art of Problem Solving]]
-	- Right triangles are of paramount importance in geometry. Thus, mathematicians have developed a shorthand for writing the ratios of the sides of right triangles. Instead of writing "the ratio of the leg adjacent to an $18^{\circ}$ angle to the hypotenuse of the triangle," we write "cos $18^{\circ}$ ". Because expressions of this type frequently come up in physics, engineering, and many other branches of science, you can see why such a shorthand was developed. We'll start off with a few definitions.
-	- What use is trigonometry? In a word, it's a shortcut. Using the trigonometric functions and our knowledge about special right triangles, we can quickly find various side lengths and angle measures. Examples are included among the problems below. Trigonometry also gives us yet another method to prove that two angles are equal. If we know that two acute angles have the same value for some trigonometric function (e.g. $\sin \alpha=\sin \beta$ ), then we know the angles are equal ( $\alpha=\beta$ ). (Can you prove this?)
-
 ---
+
+## Thoughts after 2100 XP (~ 35 hours of work)
+
+![[Pasted image 20250506213145.png|200]]
+
+What have I learned? What intrigued me about this process?
+
+I took the diagnostics, still the exercises felt too easy and not challenging enough.
+
+Now, I completed 78% of math foundations II. Maybe it's time to switch to MF3.
+
+I felt like something was missing.
+
+[ ] remix lessons and make them your own
 
 Update 10.06.2025
 

@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "My Experience With Math Academy.md",
+                "file": "Math Academy Notes.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "My Experience With Math Academy"
+              "title": "Math Academy Notes"
             }
           }
         ]
@@ -177,7 +177,7 @@
   "active": "c559aa65d3589ac8",
   "lastOpenFiles": [
     "The Art of Problem Solving.md",
-    "My Experience With Math Academy.md",
+    "Math Academy Notes.md",
     "Book of Proof.md",
     "index.md",
     "The Math Behind the Hario V60 Coffee Dripper.md",
