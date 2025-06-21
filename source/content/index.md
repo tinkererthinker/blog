@@ -10,7 +10,7 @@ What most math looks like:
 
 We are all too familiar with it. It's the mathematical equivalent to how to draw a fucking owl. Trivial. Why can't you see it? The proof is obvious!
 
-I want to find the cure to math phobia. Can a normal pleb like me perform indescribable mental motions? Is math only for the elite? I'm testing [[My Experience With Math Academy|Math Academy]]'s system to find out.
+I want to find the cure to math phobia. Can a normal pleb like me perform indescribable mental motions? Is math only for the elite? I'm testing [[Math Academy Notes|Math Academy]]'s system to find out.
 
 ## Guides
 
@@ -20,9 +20,11 @@ I want to find the cure to math phobia. Can a normal pleb like me perform indesc
 - [[So You Want to Be A Programmer]]
 - [[tinygrad onboarding guide]]
 
-## Now reading
+## Nerdsnipes
 
 These are the books I would recommend in order to [[How to Learn to See the World As It Is|learn to see the world as it is]].
+
+- [[The Math Behind the Hario V60 Coffee Dripper]]
 ### Connect with Me
 - Join me on [twitter](https://x.com/trangquest).
 - email: trang@trangla.de
