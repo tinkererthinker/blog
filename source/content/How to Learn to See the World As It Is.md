@@ -4,6 +4,7 @@
 - programming attention
 - expert attention
 - trusting yourself
+- How do you develop an internal source of discernment?
 ## Book recommendations
 
 - Sketching from Square One... to Trafalgar Square
