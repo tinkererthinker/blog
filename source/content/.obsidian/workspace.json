@@ -20,8 +20,23 @@
               "icon": "lucide-file",
               "title": "Thread by @Cantide1"
             }
+          },
+          {
+            "id": "293a55b6353fa689",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "conflict-files-obsidian-git"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -174,11 +189,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c559aa65d3589ac8",
+  "active": "293a55b6353fa689",
   "lastOpenFiles": [
+    "Clippings/Thread by @Cantide1.md",
+    "conflict-files-obsidian-git.md",
     "Clippings/Thread by @Cantide1.md~",
     "Math Academy Notes.md",
-    "Clippings/Thread by @Cantide1.md",
     "index.md",
     "Clippings/Thread by @RichDecibels the problem with gift economies.md",
     "Clippings/Thread by @RichDecibels the problem with gift economies.md~",
@@ -192,7 +208,6 @@
     "Pasted image 20250619175838.png",
     "Pasted image 20250619175824.png",
     "Clippings/Thread by @visakanv macbook.md",
-    "conflict-files-obsidian-git.md",
     "This Is Water.md",
     "Pasted image 20250612202015.png",
     "Pasted image 20250612202004.png",
