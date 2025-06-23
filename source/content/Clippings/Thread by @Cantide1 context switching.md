@@ -13,27 +13,27 @@ tags:
 
 One big misstep in social communications and life in general is Context.
 
-Everyone has thier own context: I'm at work, I'm a mom, at the store, a very important business man, in a hurry, I'm a buddhist...
+Everyone has their own context: I'm at work, I'm a mom, at the store, a very important business man, in a hurry, I'm a buddhist...
 
 But everyone expect others to be in the same context. Problems arise.
 
 🧵🤷‍♂️
 
-Context switching is incredibly important, or at least having the presence of mind to realize others have thier own ...
+Context switching is incredibly important, or at least having the presence of mind to realize others have their own ...
 
-![Image](https://pbs.twimg.com/media/FPh_O2jX0AsB7ya?format=jpg&name=large)
+![Image|400](https://pbs.twimg.com/media/FPh_O2jX0AsB7ya?format=jpg&name=large)
 
-Many get stuck in thier own context, thier own story. So stuck in fact that they dont have room for anything else, at all. If you dont conform to thier narrative you are a threat to thier \*entire\* worldview. Understand the gravity of this.
+Many get stuck in their own context, their own story. So stuck in fact that they don't have room for anything else, at all. If you don't conform to their narrative you are a threat to their \*entire\* worldview. Understand the gravity of this.
 
 Some people have learned to context switch automatically or at least with a transition period they label "cooling down" or "decompressing".
 
-Most rush forward with whatever kind of day they are having, thier mind in lockdown, and the wreckage trails them.
+Most rush forward with whatever kind of day they are having, their mind in lockdown, and the wreckage trails them.
 
 The most facile way to handle context is to establish your relationship to it. What is your personal context? How many stories do you have? What are they?
 
-Is it possible that others have just as much a rich and complex life? Do some people watching. What are thier stories?
+Is it possible that others have just as much a rich and complex life? Do some people watching. What are their stories?
 
-Once we start appreciating the fact that everyone has thier own life, their own way of seeing the world, thier own past influences and known knowns... we can start to give them space between our narrative and thier story. We can build a bridge from experience and commonality.
+Once we start appreciating the fact that everyone has their own life, their own way of seeing the world, thier own past influences and known knowns... we can start to give them space between our narrative and thier story. We can build a bridge from experience and commonality.
 
 Connecting with others through shared context is the only way to communicate. Even a language is a context.
 
@@ -49,11 +49,11 @@ Context switching is a little tricky, but if you give yourself time to leave wha
 
 Let go of work when you're done. Take a second and be happy you're home before rushing indoors.
 
-Context also helps when you're chatting w someone. You can allow yourself to move into thier story. What are they ~really~ trying to say? What can you say to help them bring that story out?
+Context also helps when you're chatting w someone. You can allow yourself to move into their story. What are they ~really~ trying to say? What can you say to help them bring that story out?
 
 Everyone has something they want to say. Are you interested?
 
-Having realized and purposefully recognizing that others have thier own lives and stories, focus, priorities, current activity or goal... will also automatically help you find your own story. Your own context. It will also help you maintain center. To hold your own frame.
+Having realized and purposefully recognizing that others have their own lives and stories, focus, priorities, current activity or goal... will also automatically help you find your own story. Your own context. It will also help you maintain center. To hold your own frame.
 
 Holding your own frame is important because of this:
 
