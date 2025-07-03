@@ -21,18 +21,6 @@ like, there's a lot to learn from top level gamers commenting on how they play t
 
 There should be! One trick someone taught me was to start with PRs. A PR cuts through a huge code base by showing the relationship between all the relevant places in the code. I always start by finding the closest PR to the thing I'm looking for
 
----
-
-**Abstract Fairy** @AbstractFairy [2024-04-23](https://x.com/AbstractFairy/status/1782731718643847673)
-
-whats a PR?
-
----
-
-**Defender** @DefenderOfBasic [2024-04-23](https://x.com/DefenderOfBasic/status/1782732449858158847)
-
-Sorry, if the open source codebase you're exploring is on GitHub there'll be pull requests (PRs)!
-
 Like when I was trying to find the code in the Godot codebase for touch input I searched "input" in the pull requests tab and glanced through a couple
 
 This acts as essentially a map for me. I can see that this one code file plus this config file is where the actual touch input code is, and how the data flows from user input to handling that input
