@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "3e86f924ce0b49ec",
+        "id": "5c1b74c49aed2931",
         "type": "tabs",
         "children": [
           {
-            "id": "c559aa65d3589ac8",
+            "id": "1586d370ebf92546",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Clippings/Thread by @DefenderOfBasic memetic warfare.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Thread by @DefenderOfBasic memetic warfare"
+              "title": "New tab"
             }
           }
         ]
@@ -53,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "defender",
+                "query": "cubi",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,8 +70,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -95,7 +90,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Clippings/DocDiff.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +99,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for DocDiff"
+              "title": "Backlinks"
             }
           },
           {
@@ -161,8 +155,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -175,9 +168,22 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "0829eb50dbb8a2b3",
+  "active": "1586d370ebf92546",
   "lastOpenFiles": [
+    "Mathematics via Problems - Algebra.md",
+    "Polynomials with Trigonometric Solutions.md",
+    "Mathematics via Problems.md",
+    "Math Academy Notes.md",
+    "index.md",
+    "Clippings/Discovering a formula for the cubic.md",
+    "Galois Theory.md",
+    "Divine Proportions - Rational Trigonometry to Universal Geometry.md",
+    "Divine Proportions Rational Trigonometry to Universal Geometry (N J Wildberger) (1).md",
+    "Drawing on the Right Side of the Brain.md",
+    "Divine Proportions Rational Trigonometry to Universal Geometry (N J Wildberger).md",
     "Clippings/Thread by @DefenderOfBasic everyone is your coworker.md",
+    "Clippings/Thread by @DefenderOfBasic everyone is your coworker.md~",
+    "Clippings/Thread by @DefenderOfBasic memetic warfare.md",
     "Clippings/Thread by @inkolore_ internal twitter for accountability.md",
     "Clippings/Thread by @AbstractFairy code base.md",
     "Clippings/Thread by @worrydream.md",
@@ -188,29 +194,17 @@
     "Clippings/Thread by @Cantide1 context switching.md",
     "Clippings/Thread by @Cantide1.md~",
     "conflict-files-obsidian-git.md",
-    "Math Academy Notes.md",
-    "index.md",
     "Clippings/Thread by @RichDecibels the problem with gift economies.md",
     "Clippings/Thread by @RichDecibels the problem with gift economies.md~",
-    "Mathematics via Problems.md",
     "Pasted image 20250620122302.png",
     "Pasted image 20250620122217.png",
     "Rational Trigonometry.md",
     "The Art of Problem Solving.md",
     "Book of Proof.md",
-    "The Math Behind the Hario V60 Coffee Dripper.md",
     "Pasted image 20250619175838.png",
     "Pasted image 20250619175824.png",
-    "Clippings/Thread by @visakanv macbook.md",
-    "This Is Water.md",
     "Pasted image 20250612202015.png",
     "Pasted image 20250612202004.png",
-    "Clippings/Thread by @QiaochuYuan oxytocin nasal spray.md",
-    "Clippings/Thread by @DefenderOfBasic autistic supercharmers.md",
-    "Clippings/The Socially-Awkward Social Network Paradox.md",
-    "Clippings/Shirky Situated Software.md",
-    "Clippings/Thread by @mwseibel.md",
-    "Clippings/Grease the Groove is truly a miracle.md",
     "Pasted image 20250603120637.png",
     "Pasted image 20250527134432.png",
     "Pasted image 20250527131351.png",

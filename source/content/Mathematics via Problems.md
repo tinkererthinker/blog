@@ -13,3 +13,5 @@ Figure 18.1 shows the reason for the terminology, since in the decimal number fi
 ![](https://youtu.be/9fYOeelsZ8U)
 How to draw the Nine-Point Circle of a given Triangle (9-Point Center)
 
+[[Mathematics via Problems - Algebra]]
+
