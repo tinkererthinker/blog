@@ -1,13 +1,13 @@
 ---
-title: "Thread by @vgr"
-source: "https://x.com/vgr/status/1199510646443786240"
+title: Thread by @vgr roam review
+source: https://x.com/vgr/status/1199510646443786240
 author:
   - "[[@vgr]]"
 published: 2019-11-26
 created: 2025-07-05
-description: "The latest stories on X - as told by posts."
+description: The latest stories on X - as told by posts.
 tags:
-  - "clippings"
+  - clippings
 ---
 **Venkatesh Rao** @vgr [2019-11-26](https://x.com/vgr/status/1199391391803043840)
 
