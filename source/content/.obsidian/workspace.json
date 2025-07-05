@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "|",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,7 +74,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -175,8 +176,9 @@
   },
   "active": "2b4ae6ca45dde37c",
   "lastOpenFiles": [
-    "Clippings/Terence Tao (@tao@mathstodon.xyz).md",
+    "Clippings/Terence Tao - Polymath Wiki.md",
     "index.md",
+    "A Data-Centric Introduction to Computer Science.md",
     "Mathematics via Problems - Algebra.md",
     "Skopenkov.md",
     "Polynomials with Trigonometric Solutions.md",
@@ -201,7 +203,6 @@
     "Clippings/Thread by @worrydream.md",
     "Clippings/Thread by @worrydream 1.md",
     "Clippings/Thread by @Conaw Benkler.md",
-    "Clippings/Thread by @VitalikButerin contributing to frontier research as an undergrad.md",
     "Clippings/Thread by @Cantide1.md~",
     "Clippings/Thread by @RichDecibels the problem with gift economies.md~",
     "Pasted image 20250620122302.png",
