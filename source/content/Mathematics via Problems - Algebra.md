@@ -13,3 +13,16 @@ by Skopenkov
 
 Triple angle formulas. You can easily reconstruct these from the addition and double angle formulas.
 
+3.2.5. (a) Similarly to 3.1 .5 (b) $\cos \frac{\pi}{9}, \cos \frac{7 \pi}{9}$, and $\cos \frac{13 \pi}{9}$ are the roots of $4 y^3-3 y=\frac{1}{2}$. By 3.3.5 (b) there are no other roots.
+
+Answer: $x \in\left\{\cos \frac{\pi}{9}, \cos \frac{7 \pi}{9}, \cos \frac{13 \pi}{9}\right\}$.
+(b) The substitution $y=2 x$ reduces this to (a).
+
+Answer: $x \in\left\{2 \cos \frac{\pi}{9}, 2 \cos \frac{7 \pi}{9}, 2 \cos \frac{13 \pi}{9}\right\}$.
+
+
+The roots $r_1, r_2, r_3$ of the cubic polynomial $P(x)=a x^3+b x^2+c x+d$ satisfy
+$$
+r_1+r_2+r_3=-\frac{b}{a}, \quad r_1 r_2+r_1 r_3+r_2 r_3=\frac{c}{a}, \quad r_1 r_2 r_3=-\frac{d}{a}
+$$
+
