@@ -123,17 +123,12 @@ Gonna start documenting subtle features here. First up: Roam is probably the mos
 
 On a scale of 1 to 10, ranking media I’ve used
 
-Paper: 1 (no recall aids unless you create ToCs or indices yourself)
-
-Email newsletters: 2 (weak searchability, weak theme/thread continuity, weak gestalt, though substack is better than mailchimp)
-
-Twitter: 4 (strong searchability, strong threadability, weak gestalt)
-
-Wiki: 5 (strong searchability, medium threadability, strong gestalt)
-
-Blog: 6 (strong searchability, strong threadability, strong gestalt)
-
-Roam: 8 (all of the above plus low friction update/create/rename)
+- Paper: 1 (no recall aids unless you create ToCs or indices yourself)
+- Email newsletters: 2 (weak searchability, weak theme/thread continuity, weak gestalt, though substack is better than mailchimp)
+- Twitter: 4 (strong searchability, strong threadability, weak gestalt)
+- Wiki: 5 (strong searchability, medium threadability, strong gestalt)
+- Blog: 6 (strong searchability, strong threadability, strong gestalt)
+- Roam: 8 (all of the above plus low friction update/create/rename)
 
 The thing is, recall is a virtuous cycle. The better a medium supports recall, the easier it is to attach new information in the right places. Which makes recall even easier. And the easier it is to add content, the faster this process snowballs. So a compound interest effect.
 
