@@ -19,8 +19,6 @@ This blog is very much inspired by Leonardo Da Vinci's notebooks. Basically, it 
 
 These are the books I would recommend in order to [[How to Learn to See the World As It Is|learn to see the world as it is]].
 
-- [[The Math Behind the Hario V60 Coffee Dripper]]
-
 ## TODOs
 
 - [   ] refactor landing page
