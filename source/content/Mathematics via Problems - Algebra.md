@@ -1,5 +1,8 @@
-by Skopenkov
+by [[Skopenkov]]
 
+Much of this book is accessible to high school students with a strong interest in mathematics. ${ }^3$ We provide definitions or references for material that is not standard in the school curriculum. However, many topics are difficult if you study them "from scratch." Thus, the ordering of the problems helps to provide "scaffolding." At the same time, many topics are independent of each other. For more details, see p. xviii, "How this book is organized".
+
+---
 # 3. Polynomials and Complex Numbers
 ### 2. Solving Polynomial Equations of Degree 3 and 4
 
