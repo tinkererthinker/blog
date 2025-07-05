@@ -5,6 +5,7 @@ This blog is very much inspired by Leonardo Da Vinci's notebooks. Basically, it 
 ## Polymath project
 
 - [[Terence Tao (@tao@mathstodon.xyz)|Introduction by Terence Tao]]
+- [[Mathematics via Problems - Algebra]]
 
 ## Guides
 
@@ -12,7 +13,6 @@ This blog is very much inspired by Leonardo Da Vinci's notebooks. Basically, it 
 - [[How to Improvise And Compose Music]]
 - [[So You Want to Be A Programmer]]
 - [[tinygrad onboarding guide]]
-- [[Mathematics via Problems - Algebra]]
 
 ## Nerdsnipes
 

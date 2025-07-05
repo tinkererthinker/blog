@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Clippings/Terence Tao (@tao@mathstodon.xyz).md",
+                "file": "index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Terence Tao (@tao@mathstodon.xyz)"
+              "title": "index"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Clippings/Terence Tao (@tao@mathstodon.xyz).md",
+                "file": "index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Terence Tao (@tao@mathstodon.xyz)"
+              "title": "Backlinks for index"
             }
           },
           {
@@ -175,8 +175,8 @@
   },
   "active": "2b4ae6ca45dde37c",
   "lastOpenFiles": [
-    "index.md",
     "Clippings/Terence Tao (@tao@mathstodon.xyz).md",
+    "index.md",
     "Mathematics via Problems - Algebra.md",
     "Skopenkov.md",
     "Polynomials with Trigonometric Solutions.md",
