@@ -8,16 +8,16 @@ This blog is very much inspired by Leonardo Da Vinci's notebooks. Basically, it 
 - [[Mathematics via Problems - Algebra]]
 - https://x.com/trangquest/status/1939647604385849582
 
-## Guides
-
-- [[Cooking for Engineers]] (noobish)
-- [[How to Improvise And Compose Music]]
-- [[So You Want to Be A Programmer]]
-- [[tinygrad onboarding guide]]
-
 ## Nerdsnipes
 
 These are the books I would recommend in order to [[How to Learn to See the World As It Is|learn to see the world as it is]].
+
+## Guides
+
+- [[How to Improvise And Compose Music]]
+- [[So You Want to Be A Programmer]]
+- [[tinygrad onboarding guide]]
+-  [[Cooking for Engineers]] (noobish)
 
 ## TODOs
 
