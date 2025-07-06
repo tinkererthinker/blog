@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
+                "file": "Clippings/Thread by @visakanv 4.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "Thread by @visakanv 4"
             }
           }
         ]
@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 266.5124969482422,
+    "collapsed": true
   },
   "right": {
     "id": "ba1ec06a672fb227",
@@ -94,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "index.md",
+                "file": "Clippings/Thread by @visakanv 4.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +105,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for index"
+              "title": "Backlinks for Thread by @visakanv 4"
             }
           },
           {
@@ -173,10 +174,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b77831b90dd9f87b",
+  "active": "2b4ae6ca45dde37c",
   "lastOpenFiles": [
-    "Clippings/Terence Tao - Polymath Wiki.md",
+    "How to Learn to See the World As It Is.md",
+    "Clippings/Thread by @visakanv 4.md",
     "index.md",
+    "Clippings/Terence Tao - Polymath Wiki.md",
     "A Data-Centric Introduction to Computer Science.md",
     "Mathematics via Problems - Algebra.md",
     "Skopenkov.md",
@@ -200,8 +203,6 @@
     "Clippings/Thread by @inkolore_ internal twitter for accountability.md",
     "Clippings/Thread by @AbstractFairy code base.md",
     "Clippings/Thread by @worrydream.md",
-    "Clippings/Thread by @worrydream 1.md",
-    "Clippings/Thread by @Conaw Benkler.md",
     "Clippings/Thread by @Cantide1.md~",
     "Clippings/Thread by @RichDecibels the problem with gift economies.md~",
     "Pasted image 20250620122302.png",

@@ -27,7 +27,8 @@
 ---
 
 How does the brain remember what is important?
-- access to unstructured learning environments in which children which bits of their experience are essential by listening to their feelings
+- access to unstructured learning environments in which children decide 
+- which bits of their experience are essential by listening to their feelings
 - abstract thinking is not possible without learning to feel your feelings, sensing and feeling emotion
 	- [[Sketching from Square One... to Trafalgar Square]]
 
