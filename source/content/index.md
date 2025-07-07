@@ -18,6 +18,7 @@ These are the books I would recommend in order to [[How to Learn to See the Worl
 - [[So You Want to Be A Programmer]]
 - [[tinygrad onboarding guide]]
 -  [[Cooking for Engineers]] (noobish)
+- [[Getting Hooked on Math and Programming]]
 
 ## TODOs
 
