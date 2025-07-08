@@ -9,11 +9,7 @@ Obsession and singing. You need to pick a piece of music you would enjoy listeni
 > 
 > It is true of any subject that the person that succeeds in anything has the realistic viewpoint at the beginning and knows that the problem is large and that he has to take it a step at a time and that he has to enjoy the step-by-step learning procedure. They’re trying to do a thing in a way that is so general that they can’t possibly build on that. If they build on that, they’re building on top of confusion and vagueness and they can’t possibly progress. If you try to approximate something that is very advanced and don’t know what you’re doing, you can’t advance. ~ [[Bill Evans]]
 
-Does relative pitch work for complicated chords?
 
-I was blown away by this video.
-
-![](https://youtu.be/hli-9maxDjY)
 ## Steps
 1. Develop a very good ear with ear training. It helps to listen to music through some good reference headphones that have a wide soundstage. I personally use the AKG K702 which I got used for $80.
 	1. You want to get to a point where your hands and instrument are just an extension of your mind. Lack of ability can break the flow making it difficult to improvise.
@@ -40,6 +36,8 @@ Let's observe how Barry Harris uses rhythmic displacement in Ladybird to add som
 - Peace Piece
 - The Nearness of You
 	- https://www.pianogroove.com/jazz-piano-lessons/the-nearness-of-you-tutorial/
+- Giant Steps
+	- Coltrane changes
 
 ---
 
