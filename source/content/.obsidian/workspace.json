@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Harold M. Edwards - Galois Theory.md",
+                "file": "Galois Theory.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Harold M. Edwards - Galois Theory"
+              "title": "Galois Theory"
             }
           }
         ]
@@ -79,8 +79,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 266.5124969482422,
-    "collapsed": true
+    "width": 266.5124969482422
   },
   "right": {
     "id": "ba1ec06a672fb227",
@@ -96,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Harold M. Edwards - Galois Theory.md",
+                "file": "Galois Theory.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +105,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Harold M. Edwards - Galois Theory"
+              "title": "Backlinks for Galois Theory"
             }
           },
           {
@@ -178,8 +177,8 @@
   },
   "active": "2b4ae6ca45dde37c",
   "lastOpenFiles": [
-    "Isaac Newton.md",
     "Harold M. Edwards - Galois Theory.md",
+    "Isaac Newton.md",
     "Galois Theory.md",
     "Clippings/Thread by @visakanv footnote.md",
     "index.md",
