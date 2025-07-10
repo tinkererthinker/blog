@@ -23,7 +23,7 @@ These are the books I would recommend in order to [[How to Learn to See the Worl
 ## TODOs
 
 - [   ] refactor landing page
-- https://github.com/tinkererthinker/blog/issues
+- Suggest any improvements on [GitHub](https://github.com/tinkererthinker/blog/issues)!
 
 ### Connect with Me
 - Join me on [twitter](https://x.com/trangquest).
