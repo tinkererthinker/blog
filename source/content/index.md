@@ -5,7 +5,7 @@ This blog is very much inspired by Leonardo Da Vinci's notebooks. Basically, it 
 ## The Polymath Project
 
 - [[Terence Tao - Polymath Wiki|Introduction by Terence Tao]]
-- [[Mathematics via Problems - Algebra]]
+- Learn [[Mathematics via Problems - Algebra]]
 - https://x.com/trangquest/status/1939647604385849582
 
 ## Nerdsnipes
