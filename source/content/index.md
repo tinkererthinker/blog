@@ -7,6 +7,7 @@ This blog is very much inspired by Leonardo Da Vinci's notebooks. Basically, it 
 - [[Terence Tao - Polymath Wiki|Introduction by Terence Tao]]
 - Learn [[Mathematics via Problems - Algebra]]
 - https://x.com/trangquest/status/1939647604385849582
+- [[Projectile Motion]]
 
 ## Nerdsnipes
 
