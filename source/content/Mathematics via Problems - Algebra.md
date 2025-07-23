@@ -29,3 +29,5 @@ $$
 r_1+r_2+r_3=-\frac{b}{a}, \quad r_1 r_2+r_1 r_3+r_2 r_3=\frac{c}{a}, \quad r_1 r_2 r_3=-\frac{d}{a}
 $$
 
+[[Binet's Formula]]
+
