@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Binet's Formula.md",
+                "file": "Clippings/Thread by @DefenderOfBasic ADHD.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Binet's Formula"
+              "title": "Thread by @DefenderOfBasic ADHD"
             }
           }
         ]
@@ -63,7 +63,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "gowers",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -84,7 +84,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -186,6 +187,8 @@
   },
   "active": "2b4ae6ca45dde37c",
   "lastOpenFiles": [
+    "Clippings/Discovering a formula for the cubic.md",
+    "Clippings/Thread by @DefenderOfBasic ADHD.md",
     "Mathematics via Problems - Algebra.md",
     "Binet's Formula.md",
     "index.md",
@@ -212,8 +215,6 @@
     "Clippings/How To Learn & Memorise Any Voicing.md",
     "Clippings/Build The Foundation For Ear Training And You Can't Fail.md",
     "Galois Theory.md",
-    "Harold M. Edwards - Galois Theory.md",
-    "Isaac Newton.md",
     "Clippings/Thread by @DefenderOfBasic everyone is your coworker.md~",
     "Clippings/Thread by @Cantide1.md~",
     "Clippings/Thread by @RichDecibels the problem with gift economies.md~",
