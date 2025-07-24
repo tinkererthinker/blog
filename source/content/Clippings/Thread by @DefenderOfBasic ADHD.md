@@ -36,17 +36,7 @@ a really cool thing you can do with an ADHD brain is to "zoom in". Your brain is
 > 
 > In my experience this is true, but not the full picture. You can also zoom out, and recognize what you are currently doing as a sub-task in a larger context. Or in five different larger contexts.
 > 
-> The challenge is that you can’t directly control the zoom function.
-
----
-
-**Lejun** @lejunddd [2025-03-24](https://x.com/lejunddd/status/1904018745749819532)
-
-This works for me too.
-
-I usually start by writing down a bunch of things I want to do, eg features. Set a timer for 10m to work on one. 10m doesn’t feel impossible to start. Even if it sucks.
-
-Whenever bored just switch between tasks in the project and your “doing things”
+> The challenge is that ==you can’t directly control the zoom function.==
 
 ---
 
