@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Clippings/Thread by @DefenderOfBasic ADHD.md",
+                "file": "Math Academy Notes.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Thread by @DefenderOfBasic ADHD"
+              "title": "Math Academy Notes"
             }
           }
         ]
@@ -63,7 +63,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "gowers",
+                "query": "math academy",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -187,8 +187,11 @@
   },
   "active": "2b4ae6ca45dde37c",
   "lastOpenFiles": [
-    "Clippings/Discovering a formula for the cubic.md",
+    "Free to Learn.md",
+    "Math Academy Notes.md",
+    "2025-05-07.md",
     "Clippings/Thread by @DefenderOfBasic ADHD.md",
+    "Clippings/Discovering a formula for the cubic.md",
     "Mathematics via Problems - Algebra.md",
     "Binet's Formula.md",
     "index.md",
@@ -212,9 +215,6 @@
     "Clippings/Thread by @DefenderOfBasic marketing.md",
     "Clippings/Thread by @DefenderOfBasic 5.md",
     "Clippings/In praise of voice notes.md",
-    "Clippings/How To Learn & Memorise Any Voicing.md",
-    "Clippings/Build The Foundation For Ear Training And You Can't Fail.md",
-    "Galois Theory.md",
     "Clippings/Thread by @DefenderOfBasic everyone is your coworker.md~",
     "Clippings/Thread by @Cantide1.md~",
     "Clippings/Thread by @RichDecibels the problem with gift economies.md~",

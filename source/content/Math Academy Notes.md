@@ -1,3 +1,6 @@
+
+*Update July 2025: I wouldn't recommend Math Academy to most people anymore because the program is designed around the wrong assumptions about education.*
+- [[Free to Learn]]: Why Unleashing the Instinct to Play Will Make Our Children Happier, More Self-Reliant, and Better Students for Life
 ## Some context for MF III
 
 - adding some context to MA courses
@@ -58,7 +61,7 @@ I felt like something was missing.
 
 [ ] remix lessons and make them your own
 
-Update 10.06.2025
+## Update 10.06.2025
 
 I completed 95% of MF2 and 28% of MF3.
 
